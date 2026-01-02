@@ -1,0 +1,1824 @@
+1
+00:00:03,510 --> 00:00:06,054
+Leonard, tenho estado a trabalhar
+numa piada introdutória
+
+2
+00:00:06,138 --> 00:00:07,597
+para a nossa palestra em Berkeley.
+
+3
+00:00:07,681 --> 00:00:08,765
+Oh, eu gosto de rir.
+
+4
+00:00:08,849 --> 00:00:09,933
+Mas podes dizer.
+
+5
+00:00:11,601 --> 00:00:13,186
+Está bem...
+
+6
+00:00:13,687 --> 00:00:15,856
+O que se diz a um finalista
+
+7
+00:00:15,939 --> 00:00:18,150
+do departamento de Física da UC Berkeley?
+
+8
+00:00:18,233 --> 00:00:20,027
+Quero batatas a acompanhar.
+
+9
+00:00:21,820 --> 00:00:23,739
+Porque a sua educação não o preparou
+
+10
+00:00:23,822 --> 00:00:25,282
+para uma carreira nas ciências.
+
+11
+00:00:27,325 --> 00:00:29,036
+Sabes, quando eles correrem contigo de lá,
+
+12
+00:00:29,119 --> 00:00:30,787
+só tens de correr mais do que o Sheldon.
+
+13
+00:00:31,830 --> 00:00:33,040
+Estás preparado para a viagem?
+
+14
+00:00:33,206 --> 00:00:34,333
+Sim, acho que sim.
+
+15
+00:00:34,416 --> 00:00:37,210
+Acabo de reabastecer o KCP antigo.
+
+16
+00:00:37,502 --> 00:00:38,712
+"KCP"?
+
+17
+00:00:38,795 --> 00:00:39,963
+Kit de casa de banho pública.
+
+18
+00:00:42,049 --> 00:00:44,092
+Tudo o que um rapaz precisa
+para fazer xixi
+
+19
+00:00:44,176 --> 00:00:45,719
+em sítios novos e estranhos.
+
+20
+00:00:46,845 --> 00:00:48,805
+Não vejo nada de estranho
+em levar uma mochila
+
+21
+00:00:48,889 --> 00:00:51,141
+com o meu próprio papel higiénico
+e desinfetante.
+
+22
+00:00:51,224 --> 00:00:52,267
+Continua.
+
+23
+00:00:53,060 --> 00:00:55,812
+E luvas de borracha, ambientador.
+
+24
+00:00:56,146 --> 00:00:58,273
+Auscultadores com cancelamento de ruído.
+
+25
+00:00:58,357 --> 00:00:59,941
+Um apito de perigo.
+
+26
+00:01:01,193 --> 00:01:02,652
+Gás lacrimogéneo.
+
+27
+00:01:03,028 --> 00:01:05,322
+Um sinal de "ocupado" em várias línguas.
+
+28
+00:01:05,822 --> 00:01:07,157
+Vejamos.
+
+29
+00:01:07,240 --> 00:01:10,535
+Temos protetores de assento,
+proteções para os meus sapatos
+
+30
+00:01:10,619 --> 00:01:12,579
+e uma mola para o nariz.
+
+31
+00:01:12,662 --> 00:01:15,707
+E um espelho numa vara,
+
+32
+00:01:15,791 --> 00:01:18,001
+para ter a certeza
+de que a pessoa na divisão ao lado
+
+33
+00:01:18,085 --> 00:01:19,503
+não é nenhum tarado.
+
+34
+00:01:23,298 --> 00:01:25,759
+Ainda te preocupa que uma miúda
+de Berkeley to possa roubar?
+
+35
+00:01:26,551 --> 00:01:28,845
+Sim, quem pensas que lhe deu
+o apito de perigo?
+
+36
+00:01:58,023 --> 00:02:00,358
+Queres jogar um jogo de Física
+que inventei,
+
+37
+00:02:00,567 --> 00:02:02,193
+chamado Não Posso Espiar?
+
+38
+00:02:03,403 --> 00:02:05,864
+Tem toda a emoção do <i>I Spy</i>,
+
+39
+00:02:05,947 --> 00:02:08,867
+mas com a diversão
+de partículas subatómicas e ondas
+
+40
+00:02:08,950 --> 00:02:10,535
+fora do espectro visível.
+
+41
+00:02:11,328 --> 00:02:12,412
+Se for tão divertido como o
+
+42
+00:02:12,495 --> 00:02:14,789
+"Um vezes dez à quarta
+garrafa de cerveja na parede",
+
+43
+00:02:14,873 --> 00:02:15,832
+alinho.
+
+44
+00:02:17,083 --> 00:02:18,043
+Eu começo.
+
+45
+00:02:18,126 --> 00:02:22,630
+Não posso espiar com o meu pequeno olho...
+
+46
+00:02:23,757 --> 00:02:25,633
+Algo a passar mesmo no nosso meio.
+
+47
+00:02:26,468 --> 00:02:28,136
+Aquele Frappuccino de soja que bebi.
+
+48
+00:02:29,262 --> 00:02:30,847
+Queres prestar atenção ao jogo?
+
+49
+00:02:31,181 --> 00:02:33,516
+Não posso espiar com o meu pequeno olho
+
+50
+00:02:33,725 --> 00:02:35,685
+algo a passar mesmo no nosso meio.
+
+51
+00:02:35,769 --> 00:02:37,687
+Não sei.
+
+52
+00:02:37,854 --> 00:02:40,440
+Se 65 mil milhões de neutrinos solares
+
+53
+00:02:40,523 --> 00:02:42,525
+passam por um centímetro quadrado
+a cada segundo,
+
+54
+00:02:42,609 --> 00:02:44,527
+tendo em conta que a área deste carro
+
+55
+00:02:44,611 --> 00:02:46,279
+tem cerca de 60.000 cm quadrados,
+
+56
+00:02:46,529 --> 00:02:50,658
+isso significa 3,9 vezes dez
+elevado a 15 neutrinos solares?
+
+57
+00:02:53,328 --> 00:02:54,621
+Não quero jogar mais.
+
+58
+00:02:57,123 --> 00:02:59,542
+Faz tempo que não viajamos de carro.
+Isto é divertido.
+
+59
+00:02:59,626 --> 00:03:01,753
+Está bem, ganhaste o jogo.
+Para de gabar-te.
+
+60
+00:03:02,587 --> 00:03:05,006
+Não, escuta, escrevemos um artigo juntos.
+
+61
+00:03:05,090 --> 00:03:08,051
+E agora podemos ir a uma universidade
+falar sobre isso? É muito fixe.
+
+62
+00:03:09,052 --> 00:03:10,178
+Acho que sim.
+
+63
+00:03:11,012 --> 00:03:15,016
+Na verdade, se quiseres celebrar
+com um pouco de música,
+
+64
+00:03:15,308 --> 00:03:16,518
+eu não me importo.
+
+65
+00:03:17,727 --> 00:03:19,229
+O quê...
+
+66
+00:03:20,772 --> 00:03:22,440
+Esta viagem está a ser uma loucura.
+
+67
+00:03:24,442 --> 00:03:26,236
+Toca essa música funk, branquela.
+
+68
+00:03:28,780 --> 00:03:30,365
+Admira-me que conheças essa referência.
+
+69
+00:03:31,658 --> 00:03:32,909
+Que referência?
+
+70
+00:03:36,955 --> 00:03:39,124
+Pus autocolantes em tudo
+o que vamos vender.
+
+71
+00:03:39,207 --> 00:03:41,251
+Só precisamos de ajuda
+para levar tudo para baixo.
+
+72
+00:03:41,418 --> 00:03:42,710
+Posso encarregar-me dos preços?
+
+73
+00:03:42,794 --> 00:03:45,213
+Tenho ido a vendas de garagem
+desde sempre.
+
+74
+00:03:45,296 --> 00:03:47,590
+Acreditam que comprei estes collants
+por um níquel?
+
+75
+00:03:49,300 --> 00:03:52,804
+A Amy fica com os preços
+e com os seus 75 anos de idade.
+
+76
+00:03:54,055 --> 00:03:55,849
+Penny, podes ajudar-me com isto?
+
+77
+00:03:55,932 --> 00:03:56,766
+Claro.
+
+78
+00:03:56,850 --> 00:03:58,518
+Tínhamos um destes quando era mais nova.
+
+79
+00:03:58,601 --> 00:03:59,811
+Estava sempre a jogar.
+
+80
+00:03:59,894 --> 00:04:01,771
+Ai, sim? Eu adoro pingue-pongue.
+
+81
+00:04:02,355 --> 00:04:03,731
+Oh, eu queria dizer beer pong.
+
+82
+00:04:05,150 --> 00:04:06,317
+Também tinha uma mesa,
+
+83
+00:04:06,401 --> 00:04:08,945
+mas não tinha amigos,
+por isso apenas fazia o serviço.
+
+84
+00:04:10,864 --> 00:04:13,116
+Sabes, podes deixar um dos lados em cima
+e jogar sozinha.
+
+85
+00:04:13,366 --> 00:04:16,035
+Se eu tivesse amigos,
+podiam ter-me dito isso.
+
+86
+00:04:19,497 --> 00:04:20,582
+Desculpa.
+
+87
+00:04:20,915 --> 00:04:22,417
+Porque é que isto tem um autocolante?
+
+88
+00:04:22,500 --> 00:04:24,836
+É a minha TARDIS do <i>Doctor Who.</i>
+
+89
+00:04:24,919 --> 00:04:26,588
+Estava a planear levá-la para casa.
+
+90
+00:04:26,921 --> 00:04:28,756
+Acho que acabas de responder
+à tua pergunta.
+
+91
+00:04:29,883 --> 00:04:32,510
+Vá lá, um dia o valor disto pode duplicar
+
+92
+00:04:32,594 --> 00:04:34,554
+e valerá metade daquilo que paguei.
+
+93
+00:04:35,597 --> 00:04:38,433
+Querido, temos muito para fazer.
+Não temos de decidir agora.
+
+94
+00:04:39,017 --> 00:04:41,144
+Bem, também acho.
+Desde que mantenhas a mente aberta.
+
+95
+00:04:41,978 --> 00:04:42,937
+Sim, claro.
+
+96
+00:04:59,412 --> 00:05:01,122
+Então, eles estão a pedir
+
+97
+00:05:01,247 --> 00:05:03,875
+que o branquela toque a música funk,
+não é?
+
+98
+00:05:05,543 --> 00:05:06,377
+Sim.
+
+99
+00:05:06,920 --> 00:05:11,382
+E esta música que estamos a ouvir agora
+também é funk?
+
+100
+00:05:13,051 --> 00:05:14,135
+Claro.
+
+101
+00:05:15,345 --> 00:05:16,554
+Vou fazer-te uma pergunta.
+
+102
+00:05:16,846 --> 00:05:17,931
+Achas que
+
+103
+00:05:18,097 --> 00:05:21,935
+esta música é a música
+que o branquela irá tocar?
+
+104
+00:05:24,729 --> 00:05:25,813
+Pode ser.
+
+105
+00:05:26,314 --> 00:05:29,817
+Então é como o equivalente musical
+ao paradoxo de Russel,
+
+106
+00:05:30,235 --> 00:05:32,654
+a questão sobre
+se o conjunto de todos os conjuntos
+
+107
+00:05:32,779 --> 00:05:35,615
+que não contêm a si próprios como membros
+contém a si próprio?
+
+108
+00:05:35,823 --> 00:05:37,700
+- Exatamente.
+- Bem...
+
+109
+00:05:38,117 --> 00:05:40,245
+Então, odeio-a.
+A música deve ser apenas divertida.
+
+110
+00:05:43,581 --> 00:05:44,624
+Estamos a andar bem.
+
+111
+00:05:45,166 --> 00:05:46,292
+Vamos chegar lá muito cedo.
+
+112
+00:05:47,126 --> 00:05:48,419
+Será que o quarto estará pronto?
+
+113
+00:05:48,711 --> 00:05:49,712
+Duvido.
+
+114
+00:05:50,922 --> 00:05:52,840
+Não te preocupa que sentar na receção
+
+115
+00:05:52,924 --> 00:05:55,385
+durante muito tempo possa chamar a atenção
+
+116
+00:05:55,468 --> 00:05:56,970
+do detetive do hotel?
+
+117
+00:05:58,680 --> 00:06:02,642
+Se isso acontecer, dizemos-lhe:
+"Ponha-se a andar, amigo."
+
+118
+00:06:04,602 --> 00:06:06,479
+Parece-me um pouco desafiador,
+mas está bem.
+
+119
+00:06:09,107 --> 00:06:13,194
+Sabes, não ficaremos muito longe
+do Rancho Skywalker.
+
+120
+00:06:13,736 --> 00:06:14,654
+Sim, é verdade.
+
+121
+00:06:15,029 --> 00:06:16,406
+Não é que possamos entrar lá.
+
+122
+00:06:17,031 --> 00:06:17,907
+Porque não?
+
+123
+00:06:18,741 --> 00:06:20,827
+Não acho que o George Lucas
+tenha colocado a sua sede
+
+124
+00:06:20,952 --> 00:06:23,454
+no meio do nada por querer
+que as pessoas o visitem.
+
+125
+00:06:24,914 --> 00:06:27,083
+O pântano do Yoda ficava no meio do nada.
+
+126
+00:06:28,084 --> 00:06:30,044
+Tatooine ficava no meio do nada.
+
+127
+00:06:30,545 --> 00:06:32,588
+Hoth ficava no meio do nada.
+
+128
+00:06:33,923 --> 00:06:35,383
+É um código, Leonard.
+
+129
+00:06:35,466 --> 00:06:36,759
+Ele quer que o visitemos.
+
+130
+00:06:40,388 --> 00:06:41,556
+Temos tempo para isso.
+
+131
+00:06:41,639 --> 00:06:44,017
+Quer dizer, podíamos passar por lá
+e dar uma olhadela.
+
+132
+00:06:44,559 --> 00:06:46,102
+Sim! Oh...
+
+133
+00:06:46,436 --> 00:06:47,812
+Estou tão entusiasmado.
+
+134
+00:06:48,187 --> 00:06:49,939
+E não consigo escondê-lo.
+
+135
+00:06:51,482 --> 00:06:54,861
+Estou quase a perder o controlo
+e acho que estou a gostar.
+
+136
+00:06:56,696 --> 00:06:57,905
+Do que estás a falar?
+
+137
+00:07:04,120 --> 00:07:05,997
+Então, quando acham que se vão mudar?
+
+138
+00:07:06,831 --> 00:07:09,083
+Ainda estamos a ver
+o que iremos remodelar.
+
+139
+00:07:09,334 --> 00:07:11,044
+É difícil encontrar o equilíbrio certo
+
+140
+00:07:11,127 --> 00:07:12,503
+entre "modernismo de bom-gosto"
+
+141
+00:07:12,587 --> 00:07:14,631
+e "festival de tralhas de mãe judia".
+
+142
+00:07:16,549 --> 00:07:18,426
+Já te decidiste sobre a TARDIS?
+
+143
+00:07:18,718 --> 00:07:21,512
+Acho que consigo vendê-la se a chamarmos
+de "Grande Urinol Britânico".
+
+144
+00:07:24,849 --> 00:07:26,517
+Não vamos vendê-la. É minha.
+
+145
+00:07:27,060 --> 00:07:28,269
+Não podes decidir sozinho.
+
+146
+00:07:28,478 --> 00:07:29,604
+Que tal um braço de ferro?
+
+147
+00:07:30,313 --> 00:07:31,397
+Isso não é justo.
+
+148
+00:07:31,689 --> 00:07:34,942
+É como se eu te desafiasse
+para um concurso de collants sexy.
+
+149
+00:07:36,944 --> 00:07:38,279
+Podiam jogar pingue-pongue.
+
+150
+00:07:38,529 --> 00:07:39,530
+Isso eu faria.
+
+151
+00:07:39,697 --> 00:07:41,949
+E isso é justo?
+Cresceste com uma mesa de pingue-pongue.
+
+152
+00:07:42,033 --> 00:07:44,577
+Sim, mas usava-a mais
+como campo de batalha,
+
+153
+00:07:44,702 --> 00:07:47,288
+numa guerra contínua
+entre os Transformers e os ThunderCats
+
+154
+00:07:47,455 --> 00:07:49,582
+pelo controlo de um soutien
+que encontrei no bosque.
+
+155
+00:07:51,626 --> 00:07:53,544
+Bernadette, por todos os episódios
+de <i>Doctor Who</i>
+
+156
+00:07:53,628 --> 00:07:54,921
+a que o Leonard me fez assistir,
+
+157
+00:07:55,004 --> 00:07:56,172
+eu jogo por ti
+
+158
+00:07:56,255 --> 00:07:58,216
+e envio essa TARDIS
+de volta para Gallifrey,
+
+159
+00:07:58,299 --> 00:07:59,801
+onde odeio saber que é o seu lugar.
+
+160
+00:08:01,469 --> 00:08:02,762
+Sim, a Penny jogará por mim.
+
+161
+00:08:03,262 --> 00:08:05,848
+Isso não é justo. Ela tem músculos
+na parte superior do corpo.
+
+162
+00:08:07,433 --> 00:08:10,520
+Meu, tricampeão da Escola Sanskriti
+
+163
+00:08:10,603 --> 00:08:12,980
+no campeonato de badmínton
+para Meninos de Berço de Ouro.
+
+164
+00:08:14,232 --> 00:08:15,983
+É verdade. O Raj pode jogar por mim.
+
+165
+00:08:16,192 --> 00:08:17,568
+Bem, acabam de escolher campeões.
+
+166
+00:08:17,652 --> 00:08:19,779
+É como reencenar a antiga prática alemã
+
+167
+00:08:19,862 --> 00:08:21,614
+de julgamento por combate.
+- Sim, como
+
+168
+00:08:21,781 --> 00:08:24,075
+The Mountain a lutar com o Red Viper
+na <i>Guerra dos Tronos.</i>
+
+169
+00:08:24,283 --> 00:08:25,743
+O Leonard também te faz ver isso?
+
+170
+00:08:25,910 --> 00:08:27,078
+Não. Gosto dessa série.
+
+171
+00:08:27,161 --> 00:08:28,955
+Tem dragões e pessoas aos amassos.
+
+172
+00:08:30,623 --> 00:08:34,085
+Então está resolvido. O destino da TARDIS
+do Doctor Who será decidido
+
+173
+00:08:34,168 --> 00:08:36,629
+num jogo inspirado na <i>Guerra dos Tronos,</i>
+no campo de batalha
+
+174
+00:08:36,713 --> 00:08:38,673
+de ThunderCats contra os Transformers<i>.</i>
+
+175
+00:08:40,049 --> 00:08:42,385
+Se ainda tiveres aquele soutien,
+dou-te um níquel por ele.
+
+176
+00:08:49,475 --> 00:08:50,601
+Lá está ele.
+
+177
+00:08:52,353 --> 00:08:53,604
+É apenas um portão.
+
+178
+00:08:55,523 --> 00:08:56,649
+Numa estrada.
+
+179
+00:08:58,151 --> 00:08:59,861
+Nem sequer foi difícil de encontrar.
+
+180
+00:09:03,197 --> 00:09:04,407
+Isto é tão emocionante!
+
+181
+00:09:04,490 --> 00:09:05,742
+Eu sei!
+
+182
+00:09:07,702 --> 00:09:08,870
+Queres tirar uma fotografia?
+
+183
+00:09:09,078 --> 00:09:11,664
+Quero mais do que uma fotografia,
+quero entrar.
+
+184
+00:09:11,748 --> 00:09:13,374
+Bem, eu também, mas nunca nos deixariam.
+
+185
+00:09:14,292 --> 00:09:16,836
+Foi com essa atitude
+que conquistaste a Penny?
+
+186
+00:09:17,128 --> 00:09:18,713
+Não, mas não tenho três anos
+
+187
+00:09:18,796 --> 00:09:20,548
+até que o portão sinta pena de mim.
+
+188
+00:09:23,801 --> 00:09:24,927
+Há ali um intercomunicador.
+
+189
+00:09:25,011 --> 00:09:27,680
+Conduz até lá, carrega no botão
+e vejamos o que acontece.
+
+190
+00:09:29,682 --> 00:09:30,808
+Sim.
+
+191
+00:09:31,350 --> 00:09:32,852
+O que temos a perder?
+
+192
+00:09:41,694 --> 00:09:42,653
+Estou um pouco nervoso.
+
+193
+00:09:43,404 --> 00:09:45,031
+Bem, controla-te.
+
+194
+00:09:45,698 --> 00:09:47,700
+A confiança é essencial nestas situações.
+
+195
+00:09:48,326 --> 00:09:49,619
+Está bem.
+
+196
+00:09:50,787 --> 00:09:53,080
+Carregaste no botão, estás doido?
+
+197
+00:09:56,000 --> 00:09:56,959
+<i>Posso ajudá-lo?</i>
+
+198
+00:09:58,211 --> 00:09:59,629
+Não fizemos marcação
+
+199
+00:09:59,712 --> 00:10:00,838
+e não devíamos estar aqui,
+
+200
+00:10:00,922 --> 00:10:02,840
+mas somos, tipo, grandes e loucos fãs.
+
+201
+00:10:02,924 --> 00:10:04,050
+Quero dizer...
+
+202
+00:10:04,801 --> 00:10:06,844
+Loucos tipo "loucos por
+<i>Guerra das Estrelas</i>",
+
+203
+00:10:06,928 --> 00:10:09,847
+não loucos como se tivéssemos uma mochila
+cheia de fita adesiva,
+
+204
+00:10:09,931 --> 00:10:11,224
+apesar de termos uma mochila
+
+205
+00:10:11,307 --> 00:10:13,059
+que não vai querer ver o que tem dentro.
+
+206
+00:10:16,395 --> 00:10:17,563
+Estás a piorar as coisas.
+
+207
+00:10:17,647 --> 00:10:19,232
+Queremos conhecer o George Lucas
+
+208
+00:10:19,315 --> 00:10:21,859
+e ser amigos dele e brincar com ele!
+
+209
+00:10:24,278 --> 00:10:25,446
+<i>Estou?</i>
+
+210
+00:10:25,571 --> 00:10:27,490
+<i>O intercomunicador não funciona, entrem.</i>
+
+211
+00:10:32,286 --> 00:10:33,579
+É assim que se faz.
+
+212
+00:10:43,170 --> 00:10:46,423
+Já vencemos o primeiro desafio.
+
+213
+00:10:47,424 --> 00:10:50,636
+Agora temos de ganhar forças
+para enfrentar o monstro
+
+214
+00:10:50,803 --> 00:10:52,179
+que defende o portão.
+
+215
+00:10:54,139 --> 00:10:55,933
+Estamos a tentar passar por um guarda,
+
+216
+00:10:56,016 --> 00:10:57,476
+não vamos salvar a Zelda.
+
+217
+00:10:59,395 --> 00:11:02,022
+Acho que o que precisa de ser salvo
+é o teu sentido de humor,
+
+218
+00:11:02,106 --> 00:11:03,482
+mas um desafio de cada vez.
+
+219
+00:11:05,609 --> 00:11:06,861
+Qual é o plano?
+
+220
+00:11:07,528 --> 00:11:09,530
+Vou simplesmente ser sincero com o tipo.
+
+221
+00:11:10,072 --> 00:11:11,991
+A sinceridade não nos vai meter lá dentro.
+
+222
+00:11:12,116 --> 00:11:13,576
+Bem, qual é o teu plano?
+
+223
+00:11:13,909 --> 00:11:17,162
+Bom, o meu plano baseia-se na suposição
+
+224
+00:11:17,246 --> 00:11:18,872
+de que eles têm um posto de enfermaria
+
+225
+00:11:19,123 --> 00:11:22,293
+e na tua disposição
+para ser ligeiramente esfaqueado.
+
+226
+00:11:30,175 --> 00:11:31,260
+Quem é que querem ver?
+
+227
+00:11:31,385 --> 00:11:32,845
+Vou dizer-lhe a verdade.
+
+228
+00:11:33,053 --> 00:11:34,430
+Estás a matar-me.
+
+229
+00:11:35,806 --> 00:11:37,516
+Não temos marcação.
+
+230
+00:11:37,641 --> 00:11:39,435
+Somos apenas fãs do trabalho do Sr. Lucas
+
+231
+00:11:39,602 --> 00:11:40,894
+e decidimos tentar a sorte
+
+232
+00:11:40,978 --> 00:11:42,688
+e ver se podíamos entrar e dar uma olhada.
+
+233
+00:11:43,188 --> 00:11:45,274
+Lamento. Ouvimos isso muitas vezes.
+Não podem entrar.
+
+234
+00:11:45,774 --> 00:11:48,944
+E se eu lhe dissesse
+que sou a voz do Yoda?
+
+235
+00:11:50,779 --> 00:11:53,574
+Para uma sessão de gravação estou aqui.
+
+236
+00:11:56,243 --> 00:11:57,494
+Desculpe, não lhe dê ouvidos.
+
+237
+00:11:57,578 --> 00:11:58,912
+Na verdade, somos físicos.
+
+238
+00:11:58,996 --> 00:12:01,081
+Vamos dar uma palestra em Berkeley
+logo à tarde.
+
+239
+00:12:01,165 --> 00:12:03,083
+E... Queríamos fazer algo
+para passar o tempo.
+
+240
+00:12:03,167 --> 00:12:04,835
+Escutem, parecem ser bons rapazes.
+
+241
+00:12:05,169 --> 00:12:06,295
+Não posso deixar-vos entrar,
+
+242
+00:12:06,420 --> 00:12:08,422
+mas posso oferecer-vos uns bonés
+e umas t-shirts.
+
+243
+00:12:08,631 --> 00:12:09,673
+Muito obrigado.
+
+244
+00:12:11,175 --> 00:12:12,176
+Vês?
+
+245
+00:12:12,551 --> 00:12:13,802
+Talvez a sinceridade seja...
+
+246
+00:12:13,886 --> 00:12:14,970
+O que estás a fazer?
+
+247
+00:12:15,054 --> 00:12:16,597
+A quebrar o jugo dos meus opressores,
+
+248
+00:12:16,680 --> 00:12:18,474
+meu cego e triste homem.
+
+249
+00:12:19,099 --> 00:12:20,392
+Não se mexa!
+
+250
+00:12:20,643 --> 00:12:22,561
+Código A-A-23.
+
+251
+00:12:23,020 --> 00:12:24,313
+<i>Entendido.</i>
+
+252
+00:12:24,396 --> 00:12:26,065
+Consigo ver o rancho, Leonard!
+
+253
+00:12:26,315 --> 00:12:28,567
+É rústico, é encantador.
+
+254
+00:12:28,942 --> 00:12:31,612
+Eu tiraria uma fotografia,
+mas estou a ser perseguido.
+
+255
+00:12:33,113 --> 00:12:34,365
+Vou conseguir...
+
+256
+00:12:34,448 --> 00:12:35,658
+Vou conseguir!
+
+257
+00:12:35,741 --> 00:12:38,327
+Eles têm <i>tasers</i>,
+mas não se atreveriam a usar...
+
+258
+00:12:43,248 --> 00:12:44,500
+Vá lá, Raj.
+
+259
+00:12:44,583 --> 00:12:47,586
+És o King Kong do pingue-pongue.
+
+260
+00:12:48,671 --> 00:12:51,298
+A ameaça do ténis de mesa.
+
+261
+00:12:52,424 --> 00:12:54,635
+Acaba com ela,
+por que não sei mais o que dizer.
+
+262
+00:12:56,220 --> 00:12:57,596
+- Sim!
+- Sim!
+
+263
+00:12:58,555 --> 00:13:00,224
+Rajesh oito, Penny quatro.
+
+264
+00:13:00,432 --> 00:13:01,684
+Desculpa, ele é mesmo bom.
+
+265
+00:13:02,726 --> 00:13:03,644
+Raj.
+
+266
+00:13:04,478 --> 00:13:07,314
+Se o Howard não puder ficar com a TARDIS,
+não ficaria bem na tua casa?
+
+267
+00:13:07,523 --> 00:13:08,357
+O quê?
+
+268
+00:13:08,440 --> 00:13:09,274
+Sim, o quê?
+
+269
+00:13:10,943 --> 00:13:14,613
+Não sei muito sobre <i>Doctor Who,</i>
+mas se pusesses isto
+
+270
+00:13:14,697 --> 00:13:18,158
+mesmo em frente à tua porta
+e abrisses a parte de trás,
+
+271
+00:13:18,867 --> 00:13:21,203
+seria como se todo o teu apartamento fosse
+
+272
+00:13:21,286 --> 00:13:22,955
+o interior da TARDIS,
+
+273
+00:13:23,372 --> 00:13:24,707
+o que é muito fixe
+
+274
+00:13:24,790 --> 00:13:27,042
+porque, na série, o interior da TARDIS
+
+275
+00:13:27,126 --> 00:13:28,669
+é maior do que o exterior.
+
+276
+00:13:30,379 --> 00:13:33,090
+Mas lá está,
+eu não sei muito sobre <i>Doctor Who.</i>
+
+277
+00:13:35,759 --> 00:13:36,719
+Não ouças o que ela diz.
+
+278
+00:13:36,802 --> 00:13:39,555
+Nós somos amigos há muito tempo,
+somos como irmãos.
+
+279
+00:13:40,472 --> 00:13:42,433
+Pois somos. Pois somos.
+
+280
+00:13:44,727 --> 00:13:46,311
+Não! Que serviço terrível!
+
+281
+00:13:48,981 --> 00:13:49,857
+Desculpa, mano.
+
+282
+00:13:50,232 --> 00:13:51,525
+- Oito-cinco.
+- Isto é ridículo.
+
+283
+00:13:51,608 --> 00:13:52,776
+Quero outro campeão.
+
+284
+00:13:52,860 --> 00:13:55,070
+Amy, estavas a falar a sério
+sobre saber servir?
+
+285
+00:13:55,738 --> 00:13:57,823
+Já foi há muito tempo.
+
+286
+00:13:58,741 --> 00:13:59,742
+Não sei.
+
+287
+00:13:59,825 --> 00:14:01,493
+Devo estar muito enferrujada.
+
+288
+00:14:06,707 --> 00:14:07,624
+Ela é a minha campeã!
+
+289
+00:14:07,791 --> 00:14:09,835
+Bem, se podes trocar de campeões,
+também posso.
+
+290
+00:14:10,085 --> 00:14:11,378
+Quero o Raj.
+
+291
+00:14:11,503 --> 00:14:12,963
+Vá lá, como se te importasses.
+
+292
+00:14:13,088 --> 00:14:14,339
+Importo-me!
+
+293
+00:14:14,673 --> 00:14:16,508
+Espera, não me importo, não.
+Boa sorte, Raj.
+
+294
+00:14:18,719 --> 00:14:20,804
+Pensava que a nossa amizade
+era mais importante.
+
+295
+00:14:22,306 --> 00:14:23,474
+Eu também.
+
+296
+00:14:31,190 --> 00:14:32,900
+Achas que vão chamar a polícia?
+
+297
+00:14:32,983 --> 00:14:33,984
+Não sei.
+
+298
+00:14:35,444 --> 00:14:37,946
+Talvez chamem a Guarda Imperial
+para nos levar
+
+299
+00:14:38,030 --> 00:14:40,282
+para uma cela na Estrela da Morte.
+
+300
+00:14:42,534 --> 00:14:44,828
+Acho que isso fica abaixo do nível
+de um Guarda Imperial.
+
+301
+00:14:45,454 --> 00:14:47,122
+Os Stormtroopers são os que...
+
+302
+00:14:47,206 --> 00:14:48,832
+Cala-te!
+
+303
+00:14:50,417 --> 00:14:51,418
+Ele tem razão.
+
+304
+00:14:51,627 --> 00:14:53,670
+Na verdade,
+os Stormtroopers combinam as funções
+
+305
+00:14:53,754 --> 00:14:55,714
+de infantaria e polícia militar.
+
+306
+00:14:58,634 --> 00:15:00,052
+Costumo ser muito simpático,
+
+307
+00:15:00,135 --> 00:15:01,845
+mas cala-te tu também.
+
+308
+00:15:08,727 --> 00:15:09,728
+Então...
+
+309
+00:15:10,938 --> 00:15:12,231
+Estás aqui porquê?
+
+310
+00:15:13,273 --> 00:15:16,860
+Para ser sincero, apenas queria
+conhecer o Sr. Lucas e agradecer.
+
+311
+00:15:17,402 --> 00:15:20,072
+Sabes, os filmes tiveram um grande impacto
+na minha vida.
+
+312
+00:15:20,656 --> 00:15:22,491
+Nunca me encaixei em lado nenhum.
+
+313
+00:15:22,616 --> 00:15:24,576
+Até descobrir os mundos que ele criou
+
+314
+00:15:24,993 --> 00:15:26,703
+e encontrar um lugar a que pertenço.
+
+315
+00:15:27,788 --> 00:15:29,540
+Mas porque estás aqui?
+
+316
+00:15:30,749 --> 00:15:32,084
+Saltei uma cerca
+
+317
+00:15:32,167 --> 00:15:33,877
+e apanharam-me na galeria de esculturas
+
+318
+00:15:33,961 --> 00:15:35,629
+aos amassos com uma estátua do Chewbacca.
+
+319
+00:15:42,886 --> 00:15:43,971
+Com licença.
+
+320
+00:15:52,479 --> 00:15:56,275
+Leonard, eles têm uma galeria de estátuas.
+
+321
+00:16:01,363 --> 00:16:02,948
+Falei com o meu supervisor
+
+322
+00:16:03,031 --> 00:16:04,700
+e vamos deixar-vos ir com um aviso.
+
+323
+00:16:04,825 --> 00:16:05,951
+Mas se voltarem,
+
+324
+00:16:06,034 --> 00:16:07,744
+chamamos a polícia e apresentamos queixa.
+
+325
+00:16:07,828 --> 00:16:08,662
+Entendemos.
+
+326
+00:16:08,745 --> 00:16:09,621
+Muito obrigado.
+
+327
+00:16:09,705 --> 00:16:10,956
+E eu?
+
+328
+00:16:11,039 --> 00:16:12,749
+Tu não vais a lado nenhum, beijoqueiro.
+
+329
+00:16:13,792 --> 00:16:14,710
+Vamos.
+
+330
+00:16:14,918 --> 00:16:17,129
+Tenho de tirar-vos uma foto
+e pô-la no portão de guarda.
+
+331
+00:16:17,546 --> 00:16:19,381
+Uma pergunta sobre essa foto.
+
+332
+00:16:19,631 --> 00:16:21,425
+Pode ser com o George Lucas?
+
+333
+00:16:23,760 --> 00:16:25,429
+Que mal-humorado.
+
+334
+00:16:30,601 --> 00:16:33,395
+Este é o jogo que decide tudo.
+
+335
+00:16:33,478 --> 00:16:34,688
+Quem chegar aos 11, ganha.
+
+336
+00:16:34,771 --> 00:16:36,565
+O serviço muda a cada cinco pontos.
+
+337
+00:16:37,649 --> 00:16:39,276
+Só para que saibas, quando isto começou,
+
+338
+00:16:39,359 --> 00:16:41,904
+eu estava a pensar pôr a TARDIS
+num canto discreto da casa,
+
+339
+00:16:41,987 --> 00:16:43,822
+mas desde então fiquei mau
+e agora vai ficar
+
+340
+00:16:43,906 --> 00:16:45,199
+mesmo no meio da sala,
+
+341
+00:16:45,282 --> 00:16:48,243
+numa plataforma rotativa com uma placa
+a dizer "Toma!". Toca a jogar.
+
+342
+00:16:50,787 --> 00:16:51,622
+Só que...
+
+343
+00:16:52,080 --> 00:16:53,123
+O Raj vai ganhar.
+
+344
+00:16:53,957 --> 00:16:55,167
+Não é, Raj?
+
+345
+00:16:55,709 --> 00:16:57,419
+Sim, bem, o serviço dela foi muito bom.
+
+346
+00:16:57,711 --> 00:16:59,171
+Então, entra na cabeça dela.
+
+347
+00:16:59,254 --> 00:17:00,339
+Sê intimidador.
+
+348
+00:17:00,964 --> 00:17:02,382
+Está bem...
+
+349
+00:17:02,466 --> 00:17:03,550
+Vou dar cabo de ti, cabra!
+
+350
+00:17:03,634 --> 00:17:05,219
+- Bem!
+- Então?
+
+351
+00:17:05,302 --> 00:17:06,803
+Isso não foi simpático.
+
+352
+00:17:08,055 --> 00:17:09,306
+Vamos simplesmente jogar.
+
+353
+00:17:13,518 --> 00:17:14,728
+Um-zero.
+
+354
+00:17:15,270 --> 00:17:16,271
+Dois.
+
+355
+00:17:16,688 --> 00:17:17,606
+Três.
+
+356
+00:17:18,690 --> 00:17:19,608
+Quatro.
+
+357
+00:17:20,484 --> 00:17:21,693
+Cinco-zero.
+
+358
+00:17:22,611 --> 00:17:25,614
+Espera, jogavas badmínton
+ou mau badmínton?
+
+359
+00:17:27,574 --> 00:17:29,701
+Não lhe dês ouvidos.
+Ela só sabe fazer o serviço.
+
+360
+00:17:29,868 --> 00:17:31,995
+Agora, pega num tampão limpo e elimina-a.
+
+361
+00:17:32,913 --> 00:17:33,830
+O que...
+
+362
+00:17:33,914 --> 00:17:35,999
+E isso não é ofensivo? Onde fica a linha?
+
+363
+00:17:36,250 --> 00:17:37,793
+Na tua mala. Joga.
+
+364
+00:17:41,338 --> 00:17:42,297
+Um-cinco.
+
+365
+00:17:43,423 --> 00:17:44,424
+Dois-cinco.
+
+366
+00:17:45,092 --> 00:17:46,176
+Três-cinco.
+
+367
+00:17:46,260 --> 00:17:47,886
+Quatro-cinco.
+
+368
+00:17:48,845 --> 00:17:50,097
+Cinco-cinco!
+
+369
+00:17:52,182 --> 00:17:53,308
+Seis.
+
+370
+00:17:53,392 --> 00:17:54,601
+Sete.
+
+371
+00:17:54,685 --> 00:17:56,979
+Oito. Nove.
+
+372
+00:17:58,313 --> 00:17:59,815
+Dez-cinco!
+
+373
+00:18:02,317 --> 00:18:03,360
+Seis.
+
+374
+00:18:04,987 --> 00:18:06,113
+Sete.
+
+375
+00:18:06,989 --> 00:18:08,240
+Oito.
+
+376
+00:18:08,699 --> 00:18:09,825
+Nove.
+
+377
+00:18:10,701 --> 00:18:12,119
+Dez-dez!
+
+378
+00:18:16,373 --> 00:18:18,250
+Bem, foram 40 segundos emocionantes.
+
+379
+00:18:20,585 --> 00:18:22,796
+Sim, foram, agora és tu novamente
+a fazer o serviço
+
+380
+00:18:22,879 --> 00:18:24,381
+e o jogo acaba.
+
+381
+00:18:25,424 --> 00:18:27,718
+Sabes, Amy, eu...
+
+382
+00:18:28,260 --> 00:18:30,387
+Estou a imaginar como o Sheldon reagiria
+
+383
+00:18:30,470 --> 00:18:32,222
+se a TARDIS estivesse na tua casa.
+
+384
+00:18:33,181 --> 00:18:35,225
+Não lhe dês ouvidos, atira a bola.
+
+385
+00:18:36,059 --> 00:18:37,269
+Continua a falar.
+
+386
+00:18:42,482 --> 00:18:44,276
+Se com isto ele não entrar no teu quarto,
+
+387
+00:18:44,484 --> 00:18:45,819
+nada o fará entrar.
+
+388
+00:18:52,701 --> 00:18:53,994
+Ainda estás zangado comigo?
+
+389
+00:18:54,077 --> 00:18:57,664
+Sim, faltámos à palestra,
+quase fomos presos
+
+390
+00:18:58,206 --> 00:19:00,042
+e fizeste-me ficar na mesma sala
+com um homem
+
+391
+00:19:00,125 --> 00:19:03,128
+que meteu a língua na garganta
+de um Wookiee de peluche.
+
+392
+00:19:05,047 --> 00:19:07,341
+Bem, algumas pessoas veem sempre
+o copo meio vazio.
+
+393
+00:19:08,008 --> 00:19:09,593
+O copo está vazio, Sheldon.
+
+394
+00:19:09,801 --> 00:19:10,927
+Está completamente vazio.
+
+395
+00:19:11,011 --> 00:19:13,221
+Se desses esse copo
+a um homem a morrer de sede,
+
+396
+00:19:13,305 --> 00:19:14,931
+ele estaria morto, sabes porquê?
+
+397
+00:19:15,223 --> 00:19:17,893
+Antes que te responda, diz-me,
+ele era fumador?
+
+398
+00:19:23,231 --> 00:19:25,150
+Acho que estás a ver mal as coisas.
+
+399
+00:19:25,317 --> 00:19:27,319
+Está bem, então diz-me
+como deveria ver as coisas.
+
+400
+00:19:27,694 --> 00:19:31,782
+Bem, não só fomos ao Rancho do Skywalker,
+como também entrámos.
+
+401
+00:19:32,366 --> 00:19:34,159
+Não conhecemos ninguém
+que possa dizer isso.
+
+402
+00:19:34,534 --> 00:19:37,788
+E por todas as vezes
+que me achaste irritante,
+
+403
+00:19:37,871 --> 00:19:41,166
+hoje pudeste ver alguém atacar-me
+com um taser.
+
+404
+00:19:44,544 --> 00:19:46,213
+Essa parte foi muito boa.
+
+405
+00:19:47,255 --> 00:19:48,340
+Vês?
+
+406
+00:19:49,049 --> 00:19:50,926
+Estrebuchaste bastante.
+
+407
+00:19:52,719 --> 00:19:54,012
+Vou acreditar na tua palavra.
+
+408
+00:19:54,096 --> 00:19:56,264
+Estava muito ocupado a tentar não defecar.
+
+409
+00:19:58,892 --> 00:20:01,144
+Sabes, quando estavam a escoltar-nos
+
+410
+00:20:01,228 --> 00:20:04,064
+para a sala de detenção,
+olhei por uma porta
+
+411
+00:20:04,398 --> 00:20:06,233
+e tenho a certeza de ter visto uma vitrine
+
+412
+00:20:06,316 --> 00:20:08,110
+com a Arca da Aliança.
+
+413
+00:20:08,193 --> 00:20:10,237
+- Isso é fantástico.
+- Eu sei.
+
+414
+00:20:10,404 --> 00:20:13,573
+E eu vi Jaba the Hutt a andar de mota.
+
+415
+00:20:14,783 --> 00:20:16,451
+Se bem que foi logo depois do taser,
+
+416
+00:20:16,535 --> 00:20:17,911
+quem sabe se vi mesmo?
+
+417
+00:20:20,163 --> 00:20:22,165
+Acho que isto pode contar
+como uma aventura.
+
+418
+00:20:22,416 --> 00:20:23,458
+E foi.
+
+419
+00:20:23,834 --> 00:20:26,420
+E apesar de estarmos proibidos
+de voltar lá,
+
+420
+00:20:26,795 --> 00:20:28,380
+nunca poderão tirar-nos este dia.
+
+421
+00:20:29,464 --> 00:20:31,633
+Ao contrário do meu olfato,
+
+422
+00:20:31,716 --> 00:20:33,593
+que não voltou desde a cena do taser.
+
+423
+00:20:36,847 --> 00:20:38,181
+Não, não sinto nada.
+
+424
+00:20:45,019 --> 00:20:47,897
+Amy, os Daleks estão mesmo atrás de mim!
+
+425
+00:20:47,981 --> 00:20:49,858
+Rápido, temos de repor
+os circuitos do tempo.
+
+426
+00:20:50,275 --> 00:20:53,319
+Oh não, deixei a minha
+chave de parafusos sónica para trás.
+
+427
+00:20:58,158 --> 00:20:59,826
+Devia ter pensado melhor nisto.
+
