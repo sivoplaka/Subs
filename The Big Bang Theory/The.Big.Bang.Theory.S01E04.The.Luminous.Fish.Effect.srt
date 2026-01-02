@@ -1,0 +1,1362 @@
+1
+00:00:03,052 --> 00:00:06,053
+Estive a pensar nas viagens no tempo,
+outra vez.
+
+2
+00:00:06,054 --> 00:00:09,456
+Porquê? Chegaste a um beco sem saída
+com a invisibilidade?
+
+3
+00:00:09,973 --> 00:00:12,249
+Pu-la de lado por uns tempos.
+
+4
+00:00:12,308 --> 00:00:16,060
+Ocorreu-me que, se alguma vez
+aperfeiçoasse uma máquina do tempo,
+
+5
+00:00:16,061 --> 00:00:18,228
+viajaria para o passado
+e dá-la-ia a mim próprio,
+
+6
+00:00:18,229 --> 00:00:21,345
+eliminando, assim,
+a necessidade de a inventar.
+
+7
+00:00:22,398 --> 00:00:25,432
+- Interessante.
+- Sim, liberta-me da pressão.
+
+8
+00:00:26,442 --> 00:00:30,611
+Parece um grande avanço. Peço à "Science
+Magazine" para te reservarem a capa?
+
+9
+00:00:30,612 --> 00:00:34,096
+Trata-se de viagens no tempo, Leonard.
+Já terei feito isso.
+
+10
+00:00:34,865 --> 00:00:40,021
+- Então, devo dar-te os parabéns.
+- Já deves ter-me dado os parabéns.
+
+11
+00:00:41,119 --> 00:00:45,397
+- Sabes que não vou gostar desta festa.
+- Eu sei. Já te conheço.
+
+12
+00:00:45,663 --> 00:00:48,581
+Na última festa do departamento,
+o Professor Finkleday apanhou-me
+
+13
+00:00:48,582 --> 00:00:52,125
+e falou 45 minutos de espeleologia.
+- Sim, eu estava lá.
+
+14
+00:00:52,126 --> 00:00:54,585
+- Sabes o que é interessante nas grutas?
+- O quê?
+
+15
+00:00:54,586 --> 00:00:56,161
+Nada.
+
+16
+00:00:57,338 --> 00:01:00,881
+Evitamos o Finkleday, conhecemos o novo
+chefe do departamento, felicitamo-lo,
+
+17
+00:01:00,882 --> 00:01:03,132
+cumprimentamo-lo e vamo-nos embora.
+- Que tal assim?
+
+18
+00:01:03,133 --> 00:01:07,844
+"Prazer em conhecê-lo, Dr. Gablehauser.
+Que bom a universidade tê-lo contratado,
+
+19
+00:01:07,845 --> 00:01:11,304
+apesar de não ter feito qualquer
+pesquisa original em 25 anos
+
+20
+00:01:11,305 --> 00:01:13,847
+e de, em vez disso, ter escrito
+uma série de livros populares
+
+21
+00:01:13,848 --> 00:01:16,933
+que reduzem os grandes conceitos
+da ciência a uma série de anedotas,
+
+22
+00:01:16,934 --> 00:01:21,213
+simplificadas para se adaptarem
+a um movimento peristáltico médio.
+
+23
+00:01:22,271 --> 00:01:23,881
+<i>Mahalo.</i>
+
+24
+00:01:27,065 --> 00:01:29,507
+<i>Essa do "mahalo" fica bem.</i>
+
+25
+00:01:30,193 --> 00:01:32,777
+Sabias que há apenas oito consoantes,
+na língua havaiana?
+
+26
+00:01:32,778 --> 00:01:35,183
+Interessante.
+Deverias retirar-te com essa.
+
+27
+00:01:36,989 --> 00:01:40,936
+Caramba, olhem para este bufete!
+Adoro a América!
+
+28
+00:01:41,825 --> 00:01:45,856
+- Na Índia, não há bufetes?
+- Há, mas só de comida indiana.
+
+29
+00:01:46,412 --> 00:01:50,822
+<i>Em Bombaim, não se encontra um bagel
+nem por nada. Esfrega-me.</i>
+
+30
+00:01:52,749 --> 00:01:56,115
+- Aí está uma reviravolta interessante.
+- O quê?
+
+31
+00:01:58,378 --> 00:02:01,587
+- O Howard trouxe uma acompanhante?
+- Uma explicação mais plausível
+
+32
+00:02:01,588 --> 00:02:05,121
+é o trabalho dele em robótica
+ter dado um grande salto.
+
+33
+00:02:05,507 --> 00:02:08,280
+Como vai isso, cabras cientistas?
+
+34
+00:02:09,802 --> 00:02:13,053
+Posso apresentar-lhes
+a minha amiga especial, a Summer?
+
+35
+00:02:13,054 --> 00:02:16,124
+- Howard, se me tocares, pagas mais.
+- Pois. Desculpa.
+
+36
+00:02:17,390 --> 00:02:20,183
+Aí vem o nosso novo chefe.
+Sejam corteses.
+
+37
+00:02:20,184 --> 00:02:23,768
+- Olá, rapazes. Eric Gablehauser.
+- Howard Wolowitz.
+
+38
+00:02:23,769 --> 00:02:26,376
+Howard, muito prazer. E você é...?
+
+39
+00:02:27,272 --> 00:02:29,760
+Um cientista a sério.
+
+40
+00:02:32,734 --> 00:02:34,724
+Que tal?
+
+41
+00:02:35,736 --> 00:02:38,260
+Não acredito que ele me despediu!
+
+42
+00:02:38,654 --> 00:02:41,488
+Chamaste-lhe professor de ciências
+de liceu sobrevalorizado,
+
+43
+00:02:41,489 --> 00:02:45,437
+cuja última experiência bem sucedida
+foi incendiar os próprios peidos.
+
+44
+00:02:46,159 --> 00:02:49,941
+Em minha defesa, comecei por dizer
+"com o devido respeito".
+
+45
+00:02:50,787 --> 00:02:54,080
+O nosso universo
+Estava num estado quente e denso
+
+46
+00:02:54,081 --> 00:02:58,166
+E, há 14 milhões de anos,
+Começou a expandir-se... esperem!
+
+47
+00:02:58,167 --> 00:03:00,876
+A Terra começou a arrefecer
+Os autotróficos começaram a babar-se
+
+48
+00:03:00,877 --> 00:03:03,211
+Os Neandertais fizeram ferramentas
+Construímos o muro
+
+49
+00:03:03,212 --> 00:03:05,588
+Construímos as pirâmides
+Matemática, Ciência, História
+
+50
+00:03:05,589 --> 00:03:08,965
+Desvendámos o mistério
+Tudo começou com o Big Bang
+
+51
+00:03:08,966 --> 00:03:10,743
+A TEORIA DO BIG BANG
+"O Efeito do Peixe Fluorescente"
+
+52
+00:03:16,963 --> 00:03:19,201
+- Bom dia.
+- Bom dia.
+
+53
+00:03:19,756 --> 00:03:22,007
+Vais fazer ovos para o pequeno-almoço?
+
+54
+00:03:22,008 --> 00:03:24,876
+Não é o pequeno-almoço,
+é uma experiência.
+
+55
+00:03:26,552 --> 00:03:29,011
+É que parece mesmo o pequeno-almoço.
+
+56
+00:03:29,012 --> 00:03:31,513
+Finalmente, tenho tempo
+para testar a minha hipótese
+
+57
+00:03:31,514 --> 00:03:34,181
+sobre a separação das moléculas de água
+das proteínas do ovo
+
+58
+00:03:34,182 --> 00:03:36,255
+e o seu impacto no sabor.
+
+59
+00:03:37,643 --> 00:03:39,586
+Parece delicioso.
+
+60
+00:03:40,228 --> 00:03:42,478
+<i>Fico ansioso pelo teu trabalho
+com o bacon.</i>
+
+61
+00:03:42,479 --> 00:03:44,007
+Também eu.
+
+62
+00:03:45,106 --> 00:03:49,172
+Se pedisses desculpa ao Gablehauser,
+decerto te readmitia no emprego.
+
+63
+00:03:49,526 --> 00:03:51,443
+Não quero o emprego de volta.
+
+64
+00:03:51,444 --> 00:03:55,362
+Passei os últimos 3 anos e meio a olhar
+para quadros cheios de equações.
+
+65
+00:03:55,363 --> 00:03:57,905
+Antes, passei quatro anos
+a trabalhar na minha tese.
+
+66
+00:03:57,906 --> 00:04:01,640
+Antes, estive na faculdade
+e, antes disso, estive no quinto ano.
+
+67
+00:04:02,492 --> 00:04:06,523
+É a minha primeira folga em décadas
+e vou saboreá-la.
+
+68
+00:04:06,704 --> 00:04:10,914
+Está bem. Vou deixar-te
+voltar a tratar dos teus ovos.
+
+69
+00:04:10,915 --> 00:04:14,541
+Não vou tratar apenas dos meus ovos,
+vou tratar dos ovos de toda a gente.
+
+70
+00:04:14,542 --> 00:04:16,983
+E todos nós te agradecemos.
+
+71
+00:04:47,439 --> 00:04:50,259
+"Usar ovos frescos".
+
+72
+00:04:53,317 --> 00:04:56,636
+Olá. Vou ao supermercado.
+Precisam de alguma coisa?
+
+73
+00:04:57,195 --> 00:04:59,320
+Esta deve ser uma daquelas
+circunstâncias
+
+74
+00:04:59,321 --> 00:05:03,323
+a que as pessoas que desconhecem a lei
+dos números grandes chamam coincidência.
+
+75
+00:05:03,324 --> 00:05:05,074
+- Desculpa?
+- Preciso de ovos.
+
+76
+00:05:05,075 --> 00:05:07,326
+- Quatro dúzias devem chegar.
+- Quatro dúzias?
+
+77
+00:05:07,327 --> 00:05:10,578
+Sim, distribuídos equitativamente
+entre castanhos, brancos, do campo,
+
+78
+00:05:10,579 --> 00:05:13,732
+L, XL e Jumbo.
+- Repete lá.
+
+79
+00:05:14,039 --> 00:05:18,105
+Deixa lá, não ias acertar.
+É melhor ir contigo.
+
+80
+00:05:24,963 --> 00:05:27,380
+Porque não foste trabalhar, hoje?
+
+81
+00:05:27,381 --> 00:05:31,578
+Tirei licença sabática, porque
+não lambo botas a mentes medíocres.
+
+82
+00:05:31,968 --> 00:05:34,010
+Foste despedido?
+
+83
+00:05:34,011 --> 00:05:37,164
+Os físicos teóricos
+não são despedidos.
+
+84
+00:05:37,638 --> 00:05:39,629
+Mas fui.
+
+85
+00:05:40,265 --> 00:05:45,017
+Talvez seja melhor. Digo sempre que
+fecha-se uma porta, abre-se outra.
+
+86
+00:05:45,018 --> 00:05:46,842
+Não abre nada.
+
+87
+00:05:47,186 --> 00:05:51,730
+A não ser que as portas estejam ligadas
+e haja sensores de movimento.
+
+88
+00:05:51,731 --> 00:05:53,773
+- Não...
+- Ou que a primeira porta ao fechar-se
+
+89
+00:05:53,774 --> 00:05:57,359
+crie uma alteração na pressão do ar
+que actue sobre a segunda porta.
+
+90
+00:05:57,360 --> 00:05:59,053
+Deixa lá.
+
+91
+00:05:59,861 --> 00:06:01,945
+Abranda. Abranda.
+
+92
+00:06:01,946 --> 00:06:04,280
+- Abranda!
+- Está bem assim!
+
+93
+00:06:04,281 --> 00:06:06,781
+Não estás a guardar
+a distância de segurança.
+
+94
+00:06:06,782 --> 00:06:09,491
+- Claro que estou.
+- Não, não, eu faço-te as contas.
+
+95
+00:06:09,492 --> 00:06:14,411
+Este carro pesa uns 1800 kg.
+Somo 64 kg meus e 55 kg teus...
+
+96
+00:06:14,412 --> 00:06:17,705
+- 55 kg?
+- Desculpa. Insultei-te?
+
+97
+00:06:17,706 --> 00:06:21,124
+A tua massa corporal está associada
+ao teu valor como pessoa?
+
+98
+00:06:21,125 --> 00:06:23,994
+- Sim!
+- Interessante.
+
+99
+00:06:24,044 --> 00:06:27,712
+Seja como for, dá um peso total
+de cerca de 2 mil quilos.
+
+100
+00:06:27,713 --> 00:06:30,130
+Digamos que são 1990 quilos.
+
+101
+00:06:30,131 --> 00:06:34,873
+Tudo bem. Deslocamo-nos a... Santo Deus!
+82 km/h.
+
+102
+00:06:35,134 --> 00:06:38,761
+Vamos presumir que os travões são novos
+e os calibradores estão alinhados.
+
+103
+00:06:38,762 --> 00:06:40,554
+Mesmo assim, quando pararmos,
+
+104
+00:06:40,555 --> 00:06:43,347
+estaremos a ocupar o mesmo espaço
+que o Buick à nossa frente,
+
+105
+00:06:43,348 --> 00:06:46,015
+uma impossibilidade que a Natureza
+resolverá rapidamente
+
+106
+00:06:46,016 --> 00:06:50,165
+com morte, mutilação... Olha,
+construíram um novo campo de minigolfe.
+
+107
+00:06:53,146 --> 00:06:55,897
+Isto é fantástico!
+Olha para mim!
+
+108
+00:06:55,898 --> 00:06:58,482
+Estou no mundo real das pessoas comuns,
+
+109
+00:06:58,483 --> 00:07:01,553
+com as suas vidas mundanas
+e desinteressantes.
+
+110
+00:07:02,402 --> 00:07:05,223
+- Obrigada.
+- Não, eu é que agradeço.
+
+111
+00:07:05,488 --> 00:07:08,094
+Obrigado, pessoa comum.
+
+112
+00:07:09,198 --> 00:07:12,116
+Queres saber uma coisa interessante
+sobre os tomates?
+
+113
+00:07:12,117 --> 00:07:16,360
+Não, nem por isso. Ouve, não disseste
+que precisavas de ovos?
+
+114
+00:07:16,495 --> 00:07:20,246
+Sim, mas quem souber alguma coisa sobre
+a dinâmica do crescimento bacteriano
+
+115
+00:07:20,247 --> 00:07:23,649
+sabe que deve ir buscar os produtos
+refrigerados à saída do supermercado.
+
+116
+00:07:23,750 --> 00:07:26,618
+Está bem. Então, talvez seja melhor
+ires andando.
+
+117
+00:07:27,294 --> 00:07:32,254
+Não. Isto é divertido. Quanto aos
+tomates... Acho que vais gostar.
+
+118
+00:07:32,255 --> 00:07:35,989
+Estão junto dos vegetais,
+mas, tecnicamente, são uma fruta.
+
+119
+00:07:36,133 --> 00:07:37,758
+- Interessante.
+- É, não é?
+
+120
+00:07:37,759 --> 00:07:40,627
+Não, referia-me
+ao que achas divertido.
+
+121
+00:07:44,388 --> 00:07:46,212
+Caramba!
+
+122
+00:07:47,265 --> 00:07:49,307
+O que é, agora?
+
+123
+00:07:49,308 --> 00:07:52,184
+Bom, há alguma vantagem
+em tomar suplementos de vitaminas,
+
+124
+00:07:52,185 --> 00:07:54,727
+mas o organismo humano só consegue
+absorver uma dada quantidade.
+
+125
+00:07:54,728 --> 00:07:58,296
+O que estás a comprar são ingredientes
+para uma urina muito cara.
+
+126
+00:07:59,732 --> 00:08:04,971
+- Talvez fosse isso que eu procurava.
+- Então, vais querer manganésio.
+
+127
+00:08:11,406 --> 00:08:15,866
+Foi divertido! Talvez amanhã
+possamos ir a um grande armazém.
+
+128
+00:08:15,867 --> 00:08:20,229
+Não sei, Sheldon. Vou demorar
+a recuperar do que me diverti hoje.
+
+129
+00:08:21,704 --> 00:08:25,331
+Tens a certeza? Há muitas vantagens
+em comprar em grandes quantidades.
+
+130
+00:08:25,332 --> 00:08:29,480
+Por exemplo, reparei
+que compras tampões para um mês.
+
+131
+00:08:31,878 --> 00:08:34,170
+- O quê?
+- Pensa nisso.
+
+132
+00:08:34,171 --> 00:08:38,663
+É um produto que não se estraga e vais
+precisar deles nos próximos 30 anos.
+
+133
+00:08:39,633 --> 00:08:42,951
+Queres que compre
+tampões para 30 anos?
+
+134
+00:08:43,052 --> 00:08:45,844
+30, 35...
+Quando entrou a tua mãe na menopausa?
+
+135
+00:08:45,845 --> 00:08:47,622
+Muito bem...
+
+136
+00:08:47,763 --> 00:08:51,056
+- Não vou falar disto contigo.
+- Ora, Penny!
+
+137
+00:08:51,057 --> 00:08:55,059
+É um processo humano natural e estamos
+a falar de uma poupança significativa.
+
+138
+00:08:55,060 --> 00:09:00,050
+Se contares com 15 tampões por ciclo,
+num ciclo de 28 dias... És regular?
+
+139
+00:09:05,441 --> 00:09:09,472
+Está bem, não vamos ao armazém,
+mas o minigolfe mantém-se, certo?
+
+140
+00:09:15,365 --> 00:09:18,574
+Cruzei-me com a Penny.
+Parecia aborrecida com alguma coisa.
+
+141
+00:09:18,575 --> 00:09:21,146
+Acho que está naquela altura do mês.
+
+142
+00:09:22,744 --> 00:09:25,517
+Marquei no calendário,
+para referência futura.
+
+143
+00:09:28,623 --> 00:09:32,321
+- Para que são os peixes?
+- É uma experiência.
+
+144
+00:09:34,002 --> 00:09:37,461
+- O que aconteceu à dos ovos mexidos?
+- Essa não deu em nada.
+
+145
+00:09:37,462 --> 00:09:40,413
+Os ovos mexidos
+nunca poderão ser melhorados.
+
+146
+00:09:40,881 --> 00:09:43,536
+Então... peixes?
+
+147
+00:09:44,509 --> 00:09:46,926
+Li um artigo
+sobre cientistas japoneses
+
+148
+00:09:46,927 --> 00:09:50,246
+que introduziram ADN de alforrecas
+fluorescentes noutros animais e pensei:
+
+149
+00:09:51,180 --> 00:09:53,455
+luzes de presença na forma de peixes.
+
+150
+00:09:56,225 --> 00:09:59,674
+- Luzes de presença na forma de peixes.
+- É uma ideia milionária.
+
+151
+00:10:02,104 --> 00:10:04,212
+A minha boca é um túmulo.
+
+152
+00:10:04,730 --> 00:10:08,106
+Sheldon, de certeza que não queres
+pedir desculpa ao Gablehauser
+
+153
+00:10:08,107 --> 00:10:12,007
+e recuperar o emprego?
+- Não, não! Tenho demasiado para fazer.
+
+154
+00:10:12,902 --> 00:10:14,944
+Como peixes luminosos...
+
+155
+00:10:14,945 --> 00:10:16,687
+Desculpa, eu...
+
+156
+00:10:18,281 --> 00:10:21,449
+Isto é apenas o começo.
+Tenho também uma ideia
+
+157
+00:10:21,450 --> 00:10:24,576
+para uma empresa de venda de produtos
+de higiene feminina por correio.
+
+158
+00:10:24,577 --> 00:10:26,769
+Tampões que brilham no escuro!
+
+159
+00:10:29,538 --> 00:10:32,063
+Leonard, vamos ficar ricos!
+
+160
+00:10:35,417 --> 00:10:39,419
+- Obrigado por ter vindo tão depressa.
+- Fizeste bem em ligar-me.
+
+161
+00:10:39,420 --> 00:10:41,837
+Não sabia o que fazer.
+Perdeu toda a concentração.
+
+162
+00:10:41,838 --> 00:10:44,279
+Todos os dias tem uma obsessão nova.
+
+163
+00:10:50,469 --> 00:10:53,337
+Esta é particularmente perturbadora.
+
+164
+00:10:55,764 --> 00:10:57,422
+Mamã?
+
+165
+00:10:57,765 --> 00:11:00,634
+Olá, querido!
+
+166
+00:11:01,518 --> 00:11:04,042
+<i>Chamaste a minha mãe?!</i>
+
+167
+00:11:10,799 --> 00:11:15,291
+- Arranjaste um tear! Que bom!
+- Obrigado.
+
+168
+00:11:15,510 --> 00:11:18,379
+Querido, porque arranjaste um tear?
+
+169
+00:11:18,804 --> 00:11:22,087
+Estava a trabalhar com peixes luminosos
+e ocorreu-me:
+
+170
+00:11:24,099 --> 00:11:26,291
+"Um tear!"
+
+171
+00:11:27,601 --> 00:11:31,632
+- Mãe, que fazes aqui?
+- O Leonard telefonou-me.
+
+172
+00:11:31,687 --> 00:11:33,771
+Eu sei. Mas porquê?
+
+173
+00:11:33,772 --> 00:11:36,231
+Porque uma das grandes mentes
+do século XXI
+
+174
+00:11:36,232 --> 00:11:39,966
+está a criar peixes que brilham
+no escuro e a tecer xailes.
+
+175
+00:11:40,485 --> 00:11:43,069
+Isto não é um xaile, é um poncho.
+
+176
+00:11:43,070 --> 00:11:46,113
+Os xailes são abertos dos lados
+e um poncho é fechado. Isto é um poncho.
+
+177
+00:11:46,114 --> 00:11:49,681
+E nenhum deles é razão
+para ligar à mãe de uma pessoa.
+
+178
+00:11:50,825 --> 00:11:54,034
+A sério? Quando foi a última vez
+que saíste de casa?
+
+179
+00:11:54,035 --> 00:11:57,620
+- Fui ao supermercado com a Penny.
+- Isso foi há três semanas.
+
+180
+00:11:57,621 --> 00:12:01,983
+Então prepara-te. Nos próximos 4 a 8
+dias, ela vai ficar muito irritadiça.
+
+181
+00:12:04,459 --> 00:12:07,460
+Querido, o teu amigo
+está preocupado contigo.
+
+182
+00:12:07,461 --> 00:12:09,169
+Sim, mas não sou uma criança!
+
+183
+00:12:09,170 --> 00:12:12,296
+Sou um adulto. capaz de viver
+a minha vida como achar melhor!
+
+184
+00:12:12,297 --> 00:12:15,912
+E não preciso que alguém vá fazer
+queixinhas de mim à minha mãe!
+
+185
+00:12:16,842 --> 00:12:20,410
+- Aonde vais?
+- Para o meu quarto. E ninguém entra!
+
+186
+00:12:22,679 --> 00:12:25,369
+Herdou o mau génio do pai.
+
+187
+00:12:25,514 --> 00:12:28,039
+- Tem os meus olhos.
+- Compreendo.
+
+188
+00:12:28,266 --> 00:12:31,502
+Mas o talento para a Ciência
+deve-o a Jesus.
+
+189
+00:12:34,771 --> 00:12:37,924
+<i>- Sheldon, a tua mãe fez o jantar.
+- Não tenho fome!</i>
+
+190
+00:12:38,398 --> 00:12:40,815
+Leonard, não te preocupes.
+Ele é teimoso.
+
+191
+00:12:40,816 --> 00:12:43,767
+É capaz de ficar lá
+até à Primeira Ressurreição.
+
+192
+00:12:44,444 --> 00:12:46,986
+De certeza que isso é mau?
+
+193
+00:12:46,987 --> 00:12:52,180
+Adoro-o, mas tem um feitio difícil desde
+que caiu de dentro de mim no K-Mart.
+
+194
+00:12:54,492 --> 00:13:00,230
+Perdoe-me o atrevimento, mas já percebi
+de quem o Sheldon herdou a beleza.
+
+195
+00:13:01,496 --> 00:13:04,945
+Querido, não vai resultar,
+mas continue a tentar.
+
+196
+00:13:05,332 --> 00:13:11,366
+Fiz frango. Espero que não seja um
+dos animais que vocês acham mágicos.
+
+197
+00:13:17,298 --> 00:13:22,634
+Temos um senhor indiano na nossa igreja,
+o Dr. Patel. É uma história linda.
+
+198
+00:13:22,635 --> 00:13:27,221
+O Senhor falou com ele e convenceu-o
+a dar-nos 20% de desconto na Lasek.
+
+199
+00:13:27,222 --> 00:13:31,252
+- Para quem precisar da operação.
+- É uma história muito bonita.
+
+200
+00:13:31,516 --> 00:13:33,808
+Vamos fazer alguma coisa
+quanto ao Sheldon?
+
+201
+00:13:33,809 --> 00:13:37,769
+Com o Sheldon, é preciso ter calma.
+O pai dele, Deus o tenha em descanso,
+
+202
+00:13:37,770 --> 00:13:41,670
+dizia: "Mary, com o Sheldon,
+é preciso ter calma."
+
+203
+00:13:42,440 --> 00:13:45,566
+- Parece um homem sensato.
+- Nem tanto.
+
+204
+00:13:45,567 --> 00:13:48,802
+Uma vez, tentou lutar com um lince
+por um bocado de alcaçuz.
+
+205
+00:13:49,486 --> 00:13:54,394
+Peguem num prato e num bonito
+marcador de lugar feito pelo Shelly.
+
+206
+00:13:55,115 --> 00:13:57,741
+O Shelly alguma vez
+ficou assim transtornado?
+
+207
+00:13:57,742 --> 00:14:01,410
+Constantemente. Lembro-me de que,
+num Verão, quando tinha 13 anos,
+
+208
+00:14:01,411 --> 00:14:04,611
+construiu um pequeno reactor nuclear
+no barracão
+
+209
+00:14:04,621 --> 00:14:08,081
+e disse que ia fornecer electricidade
+gratuita à cidade inteira.
+
+210
+00:14:08,082 --> 00:14:12,148
+O único problema
+era não ter materiais para fissão.
+
+211
+00:14:13,252 --> 00:14:16,420
+Seja como for, quando foi para
+a Internet para os arranjar,
+
+212
+00:14:16,421 --> 00:14:21,089
+apareceu um homem do Governo,
+sentou-o calmamente
+
+213
+00:14:21,090 --> 00:14:25,287
+e disse-lhe que era ilegal
+ter óxido de urânio no barracão.
+
+214
+00:14:26,010 --> 00:14:28,553
+- O que aconteceu?
+- O pobre coitado teve um ataque.
+
+215
+00:14:28,554 --> 00:14:32,252
+Trancou-se no quarto
+e construiu um raio mortal sónico.
+
+216
+00:14:32,515 --> 00:14:35,140
+- Um raio mortal?
+- Era o que ele lhe chamava.
+
+217
+00:14:35,141 --> 00:14:37,962
+Nem fazia abrandar
+os miúdos da vizinhança.
+
+218
+00:14:38,310 --> 00:14:40,965
+Mas irritava imenso o nosso cão.
+
+219
+00:14:42,688 --> 00:14:45,556
+Vocês dois fazem um casal giro.
+
+220
+00:14:46,399 --> 00:14:49,775
+Não... não somos um casal.
+Somos dois indivíduos,
+
+221
+00:14:49,776 --> 00:14:53,759
+como aquelas fatias de queijo
+embrulhadas individualmente que...
+
+222
+00:14:55,655 --> 00:14:58,096
+Somos amigos.
+
+223
+00:14:58,407 --> 00:15:00,515
+- Toquei num ponto sensível?
+- Sim.
+
+224
+00:15:01,325 --> 00:15:03,731
+Muito bem,
+está na hora de comermos.
+
+225
+00:15:04,327 --> 00:15:08,855
+Senhor, agradecemo-Vos por esta refeição
+e por tudo o que passámos
+
+226
+00:15:09,330 --> 00:15:13,230
+e rezamos para que ajudeis o Sheldon
+a voltar ao normal.
+
+227
+00:15:13,958 --> 00:15:16,584
+Depois de um momento
+de meditação silenciosa,
+
+228
+00:15:16,585 --> 00:15:21,410
+vou terminar com "em nome de Jesus",
+mas vocês não são obrigados a dizê-lo.
+
+229
+00:15:22,756 --> 00:15:26,158
+A não ser, claro está, que
+o Espírito Santo os inspire a isso.
+
+230
+00:15:34,930 --> 00:15:37,973
+Meu Deus,
+é a melhor tarte de fruta que já comi!
+
+231
+00:15:37,974 --> 00:15:41,873
+Sempre foi a preferida do Sheldon.
+Sabem qual é o ingrediente secreto?
+
+232
+00:15:41,893 --> 00:15:44,381
+- Amor?
+- Banha de porco.
+
+233
+00:15:49,106 --> 00:15:51,927
+- Vejam quem vem...
+- Vai assustá-lo.
+
+234
+00:15:53,901 --> 00:15:57,765
+É como um veado bebé. Temos
+de esperar que ele venha até nós.
+
+235
+00:16:05,117 --> 00:16:09,744
+Isto é ridículo. Bolas, Sheldon, reage!
+És um físico!
+
+236
+00:16:09,745 --> 00:16:14,024
+O teu lugar é na universidade, a fazer
+pesquisa, e não escondido no quarto!
+
+237
+00:16:20,085 --> 00:16:22,954
+Não costumas caçar, pois não?
+
+238
+00:16:28,132 --> 00:16:30,538
+Bom dia, fofinho.
+
+239
+00:16:31,426 --> 00:16:35,373
+- Bom dia.
+- Isso parece muito complicado. O que é?
+
+240
+00:16:36,846 --> 00:16:41,256
+É o aspecto que acho que o ADN teria,
+numa forma de vida à base de silicone.
+
+241
+00:16:42,600 --> 00:16:46,583
+Mas concebido inteligentemente
+por um criador, certo?
+
+242
+00:16:48,896 --> 00:16:50,646
+O que queres, mãe?
+
+243
+00:16:50,647 --> 00:16:54,732
+Lembras-te de o teu pai dizer que só
+podias pescar durante um certo tempo,
+
+244
+00:16:54,733 --> 00:16:57,817
+até teres de atirar um pau de dinamite
+para a água?
+
+245
+00:16:57,818 --> 00:17:01,137
+- Sim.
+- Bom, estou farta de pescar.
+
+246
+00:17:02,446 --> 00:17:04,697
+- Veste isso.
+- Para quê?
+
+247
+00:17:04,698 --> 00:17:08,199
+Porque vais ao teu escritório,
+vais pedir desculpa ao teu chefe
+
+248
+00:17:08,200 --> 00:17:10,143
+e recuperar o emprego.
+- Não.
+
+249
+00:17:10,243 --> 00:17:14,938
+Desculpa, comecei a frase com
+"se Vossa Majestade não se importa"?
+
+250
+00:17:16,747 --> 00:17:19,790
+Não vou pedir desculpa.
+Não disse mentira nenhuma.
+
+251
+00:17:19,791 --> 00:17:23,918
+Ouve-me bem,
+já te digo isto desde os teus 4 anos.
+
+252
+00:17:23,919 --> 00:17:28,087
+Não faz mal que sejas mais inteligente
+que os outros, mas não podes dizê-lo.
+
+253
+00:17:28,088 --> 00:17:31,158
+- Porquê?
+- Porque as pessoas não gostam!
+
+254
+00:17:32,049 --> 00:17:36,032
+Lembras-te das tareias que levavas
+dos miúdos da vizinhança?
+
+255
+00:17:37,970 --> 00:17:42,629
+Mexe-te. Duche, sapatos,
+camisa e toca a andar!
+
+256
+00:17:45,224 --> 00:17:49,634
+Não teria levado tareias, se o estúpido
+do raio mortal tivesse funcionado!
+
+257
+00:17:53,813 --> 00:17:55,922
+Problema resolvido.
+
+258
+00:17:56,023 --> 00:17:58,440
+A sério? Impressionante!
+
+259
+00:17:58,441 --> 00:18:02,068
+Leonard, o Senhor nunca nos dá um fardo
+maior do que podemos carregar.
+
+260
+00:18:02,069 --> 00:18:06,597
+Felizmente, abençoou-me com mais dois
+filhos que são burros como uma porta.
+
+261
+00:18:11,325 --> 00:18:13,826
+Com licença, Dr. Gablehauser,
+está ocupado?
+
+262
+00:18:13,827 --> 00:18:17,311
+- Na verdade...
+- Sheldon, está só a rabiscar. Entra.
+
+263
+00:18:20,498 --> 00:18:23,270
+- Dr. Gablehauser...
+- Dr. Cooper...
+
+264
+00:18:24,167 --> 00:18:27,201
+Vá lá, querido,
+estamos a perder horas de luz.
+
+265
+00:18:31,088 --> 00:18:35,048
+Como sabe, há várias semanas,
+no nosso primeiro encontro,
+
+266
+00:18:35,049 --> 00:18:39,197
+talvez tenhamos começado mal
+quando lhe chamei idiota.
+
+267
+00:18:40,344 --> 00:18:43,248
+E só queria dizer que errei...
+
+268
+00:18:43,346 --> 00:18:45,372
+...ao dizê-lo.
+
+269
+00:18:47,974 --> 00:18:51,517
+Desculpe, não fomos apresentados.
+Dr. Eric Gablehauser.
+
+270
+00:18:51,518 --> 00:18:54,920
+- Mary Cooper, a mãe do Sheldon.
+- Impossível!
+
+271
+00:18:54,979 --> 00:18:59,922
+- Deve tê-lo tido em adolescente.
+- Que querido! O pai dele já morreu.
+
+272
+00:19:02,150 --> 00:19:04,757
+- Recentemente?
+- Há tempo suficiente.
+
+273
+00:19:04,902 --> 00:19:06,975
+Faça favor...
+
+274
+00:19:07,362 --> 00:19:09,933
+Sheldon,
+não deveria estar a trabalhar?
+
+275
+00:19:13,741 --> 00:19:15,269
+Está bem.
+
+276
+00:19:20,203 --> 00:19:23,455
+- Como correu?
+- Recuperei o emprego.
+
+277
+00:19:23,456 --> 00:19:25,789
+A sério? O que aconteceu?
+
+278
+00:19:25,790 --> 00:19:28,066
+Não sei bem.
+
+279
+00:19:28,417 --> 00:19:32,827
+Tem que ver com uma parte da experiência
+humana que sempre me escapou.
+
+280
+00:19:33,212 --> 00:19:35,783
+Isso limita as possibilidades...
+
+281
+00:19:40,217 --> 00:19:44,552
+Estou muito orgulhosa de ti, querido.
+Demonstraste grande coragem, hoje.
+
+282
+00:19:44,553 --> 00:19:46,294
+Obrigado, mãe.
+
+283
+00:19:49,723 --> 00:19:51,381
+Mãe...
+
+284
+00:19:51,933 --> 00:19:55,335
+O Dr. Gablehauser
+vai ser o meu novo papá?
+
+285
+00:19:58,145 --> 00:20:00,882
+Veremos. Dorme bem.
+
+286
+00:20:12,737 --> 00:20:15,937
+<i>Ripadas e sincronizadas por:
+PT-Subs Rips</i>
+
