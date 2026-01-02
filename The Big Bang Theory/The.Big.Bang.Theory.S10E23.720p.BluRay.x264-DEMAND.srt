@@ -1,0 +1,1268 @@
+1
+00:00:02,083 --> 00:00:03,668
+<i>Anteriormente...</i>
+
+2
+00:00:04,336 --> 00:00:07,130
+- O que é isto?
+- Uns cálculos que não precisamos.
+
+3
+00:00:07,339 --> 00:00:08,673
+É uma abordagem diferente.
+
+4
+00:00:08,840 --> 00:00:11,468
+Querem tornar o sistema
+de orientação ainda mais pequeno?
+
+5
+00:00:11,676 --> 00:00:15,180
+É apenas uma teoria.
+Ainda não chegámos a conclusões.
+
+6
+00:00:17,557 --> 00:00:18,975
+Quero isto.
+
+7
+00:00:20,268 --> 00:00:23,063
+Mas já cumprimos as condições combinadas.
+
+8
+00:00:23,230 --> 00:00:27,067
+Torná-lo mais pequeno ia exigir
+semanas de novos cálculos.
+
+9
+00:00:27,275 --> 00:00:30,153
+Peçam ao tipo das duas<i> t-shirts</i>
+que o faça.
+
+10
+00:00:31,947 --> 00:00:37,744
+Se me permite, investimos muita atenção
+e esforço neste protótipo atual.
+
+11
+00:00:37,953 --> 00:00:41,122
+É uma solução eficaz
+e o importante é que funciona.
+
+12
+00:00:41,331 --> 00:00:46,086
+Ambos deram ótimos argumentos. Obrigado
+por fazerem-no de forma tão articulada.
+
+13
+00:00:46,253 --> 00:00:47,462
+Deem-me isto.
+
+14
+00:00:48,838 --> 00:00:49,839
+e agora...
+
+15
+00:00:50,006 --> 00:00:52,717
+- Champanhe.
+- Obrigado.
+
+16
+00:00:52,926 --> 00:00:56,680
+E para o aluno mais alto
+do ensino básico, sumo de maçã.
+
+17
+00:00:57,597 --> 00:00:59,975
+Não tem palhinha. Que bela festa.
+
+18
+00:01:01,017 --> 00:01:05,855
+Um brinde. Obrigado a todas pelo apoio
+no nosso projeto da Força Aérea.
+
+19
+00:01:06,022 --> 00:01:09,067
+Não teríamos conseguido sem vocês. Saúde.
+
+20
+00:01:09,276 --> 00:01:10,360
+- Saúde.
+- Saúde.
+
+21
+00:01:10,527 --> 00:01:13,905
+O teu agradecimento é simpático,
+mas é uma proeza vossa.
+
+22
+00:01:14,072 --> 00:01:15,907
+Fizeram isto sozinhos.
+
+23
+00:01:16,116 --> 00:01:17,450
+Sem mim.
+
+24
+00:01:19,452 --> 00:01:20,704
+Ao sucesso sem o Raj.
+
+25
+00:01:22,914 --> 00:01:24,082
+E a seguir?
+
+26
+00:01:24,249 --> 00:01:27,335
+A fase dois: testamo-lo,
+aperfeiçoamo-lo e esperamos viver
+
+27
+00:01:27,502 --> 00:01:31,172
+até vermos o filme
+com versões nossas mais atraentes.
+
+28
+00:01:31,381 --> 00:01:34,259
+Eu vou viver o suficiente, vitamina C.
+
+29
+00:01:35,635 --> 00:01:39,264
+- Amanhã de manhã voltamos ao trabalho.
+- Sem mim.
+
+30
+00:01:39,973 --> 00:01:43,560
+Espero que dele não entre no filme,
+é uma seca.
+
+31
+00:01:47,063 --> 00:01:50,025
+<i>Leonard Hofstadter, acesso concedido.</i>
+
+32
+00:01:50,191 --> 00:01:54,321
+Não interessa que isto me queime
+as retinas, faz-me sentir especial.
+
+33
+00:01:54,779 --> 00:01:57,032
+Antes do teste de campo, penso que...
+
+34
+00:02:00,285 --> 00:02:02,996
+- O que raio...?
+- Onde está tudo?
+
+35
+00:02:03,163 --> 00:02:04,998
+Quem mais tem acesso à sala?
+
+36
+00:02:05,206 --> 00:02:09,127
+É um laboratório numa instalação secreta.
+Apenas o governo americano e nós.
+
+37
+00:02:09,336 --> 00:02:11,004
+Isto é muito desconcertante.
+
+38
+00:02:11,963 --> 00:02:14,591
+Mas o filme ficou bom.
+
+39
+00:02:42,492 --> 00:02:47,872
+Desculpe, mas não entendo. Vieram
+ao nosso laboratório a meio da noite,
+
+40
+00:02:48,039 --> 00:02:51,626
+levaram o protótipo e toda a pesquisa
+e não nos avisaram?
+
+41
+00:02:51,793 --> 00:02:53,669
+Parece-me que entendeu.
+
+42
+00:02:55,213 --> 00:02:57,006
+Porque fizeram isso?
+
+43
+00:02:57,215 --> 00:02:59,675
+Vocês concluíram a primeira fase,
+nós tratamos do resto.
+
+44
+00:03:00,259 --> 00:03:02,762
+- Para onde o levaram?
+- Não posso responder.
+
+45
+00:03:02,970 --> 00:03:05,264
+Vão implementar a fase dois?
+
+46
+00:03:05,473 --> 00:03:06,974
+Não posso responder.
+
+47
+00:03:07,058 --> 00:03:11,354
+Vão levar todo o trabalho que fizemos
+durante um ano e descartar-nos?
+
+48
+00:03:11,562 --> 00:03:14,565
+A isso posso responder, sim.
+
+49
+00:03:16,943 --> 00:03:20,113
+- Isto é muito desagradável.
+- Lamento sabê-lo.
+
+50
+00:03:20,279 --> 00:03:24,784
+A principal preocupação dos militares
+americanos são os sentimentos alheios.
+
+51
+00:03:26,536 --> 00:03:29,664
+Se isso é sarcasmo,
+guarde-o para os nossos inimigos.
+
+52
+00:03:32,708 --> 00:03:35,545
+Em breve vou mudar-me.
+Encontrei um local para viver.
+
+53
+00:03:35,753 --> 00:03:37,171
+Lamento sabê-lo.
+
+54
+00:03:37,380 --> 00:03:40,675
+A sério? Estavas sempre
+a enviar-me listas de imóveis.
+
+55
+00:03:43,886 --> 00:03:46,514
+Bem, apanhaste-me.
+
+56
+00:03:47,932 --> 00:03:49,058
+Para onde vais?
+
+57
+00:03:49,267 --> 00:03:51,436
+E quando? Mas também onde?
+
+58
+00:03:52,311 --> 00:03:55,648
+- O Bert tem um quarto para alugar.
+- Vais viver com o Bert?
+
+59
+00:03:56,232 --> 00:03:59,360
+É bastante individual.
+Fica por cima da garagem dele.
+
+60
+00:03:59,527 --> 00:04:02,989
+Só vou vê-lo quando estaciona
+o carro, lava a roupa
+
+61
+00:04:03,156 --> 00:04:05,658
+ou toca bateria na sala de jantar.
+
+62
+00:04:06,617 --> 00:04:09,454
+Ainda bem para ti. Também tenho notícias.
+
+63
+00:04:09,662 --> 00:04:13,291
+Vamos voltar a falar sobre quando
+ele vai mudar-se. Tudo bem.
+
+64
+00:04:13,708 --> 00:04:17,128
+Convidaram-me para investigadora
+em Princeton.
+
+65
+00:04:17,295 --> 00:04:18,629
+- Incrível.
+- Parabéns.
+
+66
+00:04:18,713 --> 00:04:20,757
+Obrigada. Mas vou estar ausente uns meses
+
+67
+00:04:20,923 --> 00:04:22,759
+e não sei como o Sheldon se vai sentir.
+
+68
+00:04:22,967 --> 00:04:25,803
+Por favor, ele é adulto. Sabe cuidar dele.
+
+69
+00:04:25,970 --> 00:04:27,805
+Acreditas mesmo nisso?
+
+70
+00:04:29,682 --> 00:04:31,142
+Mais uma vez apanharam-me.
+
+71
+00:04:34,729 --> 00:04:38,065
+Como podem levar algo
+em que trabalhámos durante um ano?
+
+72
+00:04:38,232 --> 00:04:40,735
+Não acredito que a Força Aérea
+nos tratou assim.
+
+73
+00:04:40,902 --> 00:04:46,491
+Por mim, deixava de pagar impostos.
+Infelizmente, eu gosto de fazê-los.
+
+74
+00:04:51,662 --> 00:04:56,042
+A Força Aérea voltou a fazê-lo.
+Estão a apagar a nossa vida.
+
+75
+00:04:57,710 --> 00:05:00,046
+Não estamos no apartamento certo.
+
+76
+00:05:02,048 --> 00:05:06,135
+Se há alguém que pode limpar
+o apartamento e desaparecer é a Penny.
+
+77
+00:05:07,053 --> 00:05:10,681
+Ela pode desaparecer,
+mas não vai limpar nada.
+
+78
+00:05:16,270 --> 00:05:18,231
+Tudo bem. Está aqui tudo.
+
+79
+00:05:19,065 --> 00:05:20,107
+O que se passa?
+
+80
+00:05:20,316 --> 00:05:23,319
+Não vão acreditar.
+Os militares confiscaram o projeto.
+
+81
+00:05:23,528 --> 00:05:25,530
+- O quê?
+- Porque fizeram isso?
+
+82
+00:05:25,738 --> 00:05:26,864
+Não explicaram.
+
+83
+00:05:27,031 --> 00:05:28,741
+Sinto-me tão traído.
+
+84
+00:05:28,908 --> 00:05:32,745
+Passei a vida a pensar que o Tio Sam
+era o tio que trazia presentes.
+
+85
+00:05:32,912 --> 00:05:35,414
+Afinal é do outro tipo.
+
+86
+00:05:36,999 --> 00:05:40,545
+- Sheldon, lamento imenso.
+- Obrigado. Podemos mudar de assunto?
+
+87
+00:05:40,711 --> 00:05:41,921
+Como foi o vosso dia?
+
+88
+00:05:42,088 --> 00:05:43,464
+Deem-nos boas notícias.
+
+89
+00:05:43,631 --> 00:05:45,091
+A Amy tem novidades.
+
+90
+00:05:49,637 --> 00:05:51,889
+Sim.
+
+91
+00:05:52,306 --> 00:05:54,308
+O Raj vai mudar-se.
+
+92
+00:05:55,810 --> 00:05:58,563
+Não. Quando?
+
+93
+00:06:02,775 --> 00:06:03,943
+Estás bem?
+
+94
+00:06:04,110 --> 00:06:05,528
+Nem por isso.
+
+95
+00:06:06,195 --> 00:06:10,408
+Queres ouvir Neil Diamond?
+Ajuda-te sempre a sentir melhor.
+
+96
+00:06:10,575 --> 00:06:14,453
+Não, depois ficas excitada
+e não me apetece sexo.
+
+97
+00:06:16,122 --> 00:06:18,457
+Um ano inteiro desperdiçado.
+
+98
+00:06:19,083 --> 00:06:22,503
+Estás a esquecer-se de outra proeza
+do ano passado.
+
+99
+00:06:22,670 --> 00:06:25,298
+Sim, fomos pais.
+
+100
+00:06:26,799 --> 00:06:30,052
+A sério? É essa a importância que dás
+a termos um filho?
+
+101
+00:06:30,261 --> 00:06:32,847
+Estou feliz, mas não fiz muito.
+
+102
+00:06:33,014 --> 00:06:36,225
+Após três minutos,
+o trabalho foi sobretudo teu.
+
+103
+00:06:39,937 --> 00:06:41,689
+Contaste-lhe sobre Princeton?
+
+104
+00:06:41,897 --> 00:06:46,902
+- Estou à espera que esteja bem disposto.
+- Podes não viver até esse dia.
+
+105
+00:06:48,571 --> 00:06:50,197
+Talvez não devesse ir.
+
+106
+00:06:50,406 --> 00:06:52,074
+Para, ele vai ficar bem.
+
+107
+00:06:52,283 --> 00:06:55,786
+Creio que sim. E tu e o Leonard vivem
+mesmo em frente.
+
+108
+00:06:55,995 --> 00:06:58,539
+Bolas, espera, talvez não devesses.
+
+109
+00:06:58,748 --> 00:06:59,874
+Tenho de desligar.
+
+110
+00:07:01,000 --> 00:07:02,376
+Bom dia.
+
+111
+00:07:03,002 --> 00:07:07,256
+Desculpa ter passado tempo a mais
+na casa de banho.
+
+112
+00:07:07,465 --> 00:07:09,634
+- Sentes-te bem?
+- Nem por isso.
+
+113
+00:07:09,800 --> 00:07:14,221
+A dor pode deixar-nos mais obstipados.
+
+114
+00:07:15,056 --> 00:07:16,891
+Lamento ouvir isso.
+
+115
+00:07:17,099 --> 00:07:20,019
+Fiquei sentado, mas não tive sorte.
+
+116
+00:07:21,479 --> 00:07:24,231
+Quantos mais pormenores, mais lamento.
+
+117
+00:07:25,483 --> 00:07:31,906
+Talvez isto te anime. Fiz as tuas papas
+de aveia favoritas. Simples.
+
+118
+00:07:33,366 --> 00:07:34,617
+O que estamos a festejar?
+
+119
+00:07:35,326 --> 00:07:38,329
+Nada, só queria fazer algo simpático para ti.
+
+120
+00:07:38,537 --> 00:07:42,875
+És tão querida.
+Não sei o que seria de mim sem ti.
+
+121
+00:07:45,711 --> 00:07:48,673
+Obrigada, mas saíste-te bem sozinho.
+
+122
+00:07:49,799 --> 00:07:54,011
+Também pensava que sim, mas vejo
+que estou totalmente dependente de ti.
+
+123
+00:07:56,389 --> 00:07:58,307
+Sheldon, não sejas pateta.
+
+124
+00:07:58,516 --> 00:08:03,688
+Não. Acordar todos os dias e saber
+que estás aqui é um grande consolo.
+
+125
+00:08:06,732 --> 00:08:08,609
+Sem sabor.
+
+126
+00:08:12,530 --> 00:08:14,573
+Como consegues?
+
+127
+00:08:15,908 --> 00:08:19,495
+O que tens de fazer é
+esquecer este projeto da Força Aérea
+
+128
+00:08:19,704 --> 00:08:21,706
+e dedicares-te a algo novo.
+
+129
+00:08:21,872 --> 00:08:24,458
+Há a experiência de cognição quântica.
+
+130
+00:08:24,625 --> 00:08:27,044
+Tu e eu podíamos passar mais tempo nisso.
+
+131
+00:08:28,421 --> 00:08:33,509
+Imagina que conseguimos provar
+que a consciência cria a realidade.
+
+132
+00:08:33,676 --> 00:08:38,389
+O que teríamos alcançado?
+Um pão ainda custa três dólares.
+
+133
+00:08:39,015 --> 00:08:42,810
+Não entendo. Estás sempre a dizer
+que queres passar mais tempo comigo.
+
+134
+00:08:43,019 --> 00:08:45,146
+É verdade, eu disse isso.
+
+135
+00:08:45,354 --> 00:08:47,231
+Várias vezes. É muito irritante.
+
+136
+00:08:49,316 --> 00:08:53,195
+Alguma coisa mudou?
+Há algo que não me estás a contar?
+
+137
+00:08:56,532 --> 00:09:00,453
+Ofereceram-me uma bolsa de estudo
+de verão em Princeton.
+
+138
+00:09:02,538 --> 00:09:06,333
+Princeton. Uma bela instituição.
+
+139
+00:09:07,251 --> 00:09:09,754
+Onde o Albert Einstein ensinou
+
+140
+00:09:09,920 --> 00:09:14,425
+e onde o Leonard tirou o doutoramento.
+Deve estar em declínio.
+
+141
+00:09:16,719 --> 00:09:18,512
+É essa mesma.
+
+142
+00:09:19,055 --> 00:09:22,600
+Isso é maravilhoso, parabéns.
+
+143
+00:09:22,767 --> 00:09:26,020
+Ainda não aceitei.
+Queria falar contigo primeiro.
+
+144
+00:09:26,228 --> 00:09:29,565
+Para quê conversar?
+Tens de aceitar, é importante.
+
+145
+00:09:29,732 --> 00:09:31,859
+- Tal como tu.
+- Obrigado. Eu fico bem.
+
+146
+00:09:32,068 --> 00:09:33,319
+Tens a certeza?
+
+147
+00:09:33,527 --> 00:09:37,865
+Sim. Posso ter perdido o meu sistema
+de orientação e a namorada,
+
+148
+00:09:38,032 --> 00:09:41,702
+mas o cólon com as refeições de ontem
+ainda me faz companhia.
+
+149
+00:09:45,289 --> 00:09:49,126
+Depois do teu pequeno-almoço com alto
+teor de fibra, até ele me vai deixar.
+
+150
+00:09:54,755 --> 00:09:59,760
+A sério? Ele não põe passas
+ou rodelas de banana?
+
+151
+00:10:00,511 --> 00:10:03,931
+Papas de aveia simples não era
+o objetivo da história.
+
+152
+00:10:04,098 --> 00:10:06,475
+- Gosto de açúcar mascavado.
+- Meninas.
+
+153
+00:10:06,642 --> 00:10:08,435
+- Desculpa.
+- Desculpa.
+
+154
+00:10:08,602 --> 00:10:10,395
+Mesmo assim vais, certo?
+
+155
+00:10:10,562 --> 00:10:12,981
+Não sei, o Sheldon está tão vulnerável.
+
+156
+00:10:13,065 --> 00:10:16,902
+Se ele estivesse no teu lugar, apanhava
+o primeiro comboio para New Jersey,
+
+157
+00:10:17,069 --> 00:10:20,114
+ou o segundo, se houvesse
+adolescentes no primeiro.
+
+158
+00:10:21,156 --> 00:10:22,866
+A distância pode ser positiva.
+
+159
+00:10:23,033 --> 00:10:26,995
+Após o último projeto importante,
+o Howie seguiu-me para todo o lado.
+
+160
+00:10:27,162 --> 00:10:30,582
+- Até foi comigo à minha mamografia.
+- Qual é o problema?
+
+161
+00:10:30,791 --> 00:10:35,462
+Não, ele queria fazer uma comigo,
+como se fosse uma massagem de casais.
+
+162
+00:10:36,171 --> 00:10:38,090
+E tiveste um filho dele, lindo.
+
+163
+00:10:40,509 --> 00:10:43,137
+Estás animada com esta oportunidade?
+
+164
+00:10:43,303 --> 00:10:47,766
+Claro. Farei parte da primeira equipa
+a usar marcadores rádon para mapear...
+
+165
+00:10:47,933 --> 00:10:50,352
+Está bem. Basta um simples "sim".
+
+166
+00:10:50,686 --> 00:10:52,062
+Tens de ir.
+
+167
+00:10:52,229 --> 00:10:54,273
+Mas e se o Sheldon...
+
+168
+00:10:54,481 --> 00:10:57,359
+A vossa relação aguenta a distância
+por um pouco.
+
+169
+00:10:57,526 --> 00:10:59,486
+Vocês não são muito íntimos.
+
+170
+00:10:59,570 --> 00:11:01,321
+Não sabes o que se passa lá em casa.
+
+171
+00:11:01,530 --> 00:11:04,158
+- Muitas conferências?
+- Pronto, afinal sabes.
+
+172
+00:11:05,492 --> 00:11:08,328
+Olha que, se não fores, vais arrepender-te.
+
+173
+00:11:08,495 --> 00:11:10,289
+Esperem.
+
+174
+00:11:10,497 --> 00:11:12,040
+Ótimo.
+
+175
+00:11:13,500 --> 00:11:16,503
+Deixaste uma coisa em casa.
+Um grande abraço.
+
+176
+00:11:18,964 --> 00:11:20,966
+Encontrei-o ao lado dos beijinhos.
+
+177
+00:11:22,801 --> 00:11:25,429
+É tarde demais para mim, salvem-se.
+
+178
+00:11:28,515 --> 00:11:30,726
+Estás feliz por voltar a ter casa?
+
+179
+00:11:30,893 --> 00:11:34,980
+- Sim, mas vou ter saudades vossas.
+- Nós também.
+
+180
+00:11:35,147 --> 00:11:38,275
+Podias dizer isso sem sorrir.
+
+181
+00:11:38,442 --> 00:11:41,361
+Estou a tentar,
+é o melhor que consigo fazer.
+
+182
+00:11:51,371 --> 00:11:53,040
+O que estás a fazer?
+
+183
+00:11:53,206 --> 00:11:57,210
+O que te parece? Estou a tocar
+canções tristes com a harmónica.
+
+184
+00:11:57,377 --> 00:12:00,047
+Num apartamento tão vazio
+como o meu coração.
+
+185
+00:12:01,506 --> 00:12:02,966
+Porquê?
+
+186
+00:12:03,342 --> 00:12:06,970
+Estou deprimido. O meu amor deixou-me.
+
+187
+00:12:08,430 --> 00:12:12,184
+Então, Sheldon.
+A Amy só estará fora uns meses.
+
+188
+00:12:12,392 --> 00:12:14,811
+Agora que me vou mudar,
+o teu quarto está vazio
+
+189
+00:12:14,978 --> 00:12:17,147
+e podes ficar lá quando quiseres.
+
+190
+00:12:17,314 --> 00:12:20,442
+- Posso falar contigo lá fora?
+- Claro.
+
+191
+00:12:26,698 --> 00:12:28,659
+Sheldon, estás a ser pateta.
+
+192
+00:12:28,825 --> 00:12:33,330
+Achas? Ontem tinha um projeto da Força
+Aérea, uma namorada que vivia comigo
+
+193
+00:12:33,497 --> 00:12:36,208
+e o meu bom amigo Raj
+a viver mesmo em frente.
+
+194
+00:12:36,416 --> 00:12:38,627
+Queres mesmo saber da última parte?
+
+195
+00:12:38,835 --> 00:12:41,755
+Não, mas a lista estava um pouco curta.
+
+196
+00:12:42,172 --> 00:12:45,592
+Em vez de te focares no negativo,
+pensa nisto.
+
+197
+00:12:45,759 --> 00:12:48,387
+Ofereceram uma ótima oportunidade
+à tua namorada.
+
+198
+00:12:48,595 --> 00:12:53,392
+Podes mostrar-lhe que és um namorado
+dedicado e compreensivo.
+
+199
+00:12:55,227 --> 00:12:57,312
+Então, engano-a.
+
+200
+00:12:59,856 --> 00:13:03,694
+Certo, deixa-me recomeçar. Tu e a Amy...
+
+201
+00:13:03,902 --> 00:13:07,531
+Posso levar as minhas coisas?
+Parece que isso vai demorar.
+
+202
+00:13:14,621 --> 00:13:15,872
+Tive saudades tuas.
+
+203
+00:13:17,457 --> 00:13:19,126
+Anda cá, vamos conversar.
+
+204
+00:13:19,292 --> 00:13:23,672
+Parece grave. Fui um mau rapaz?
+Vou levar uma tareia?
+
+205
+00:13:23,880 --> 00:13:25,632
+Escuta.
+
+206
+00:13:27,050 --> 00:13:28,760
+Não sei se notas isto,
+
+207
+00:13:28,969 --> 00:13:35,726
+mas sempre que não tens projetos,
+tornas-te algo inseguro, dependente.
+
+208
+00:13:35,934 --> 00:13:38,353
+Eu sei, e peço desculpa.
+
+209
+00:13:38,562 --> 00:13:41,815
+Pronto, para.
+
+210
+00:13:43,483 --> 00:13:47,279
+Adoro quando és carinhoso,
+mas isto não tem boas intenções.
+
+211
+00:13:47,821 --> 00:13:49,364
+Desculpa, mas como agiste
+
+212
+00:13:49,531 --> 00:13:52,242
+quando trabalhaste naquele medicamento
+durante dois anos
+
+213
+00:13:52,409 --> 00:13:54,286
+e a FDA encerrou o teu projeto?
+
+214
+00:13:55,454 --> 00:13:58,832
+Inscrevi-nos em aulas de danças de salão.
+
+215
+00:13:59,666 --> 00:14:04,629
+E o que fizeste quando te afastaram
+da equipa antifúngica?
+
+216
+00:14:06,006 --> 00:14:08,425
+Engravidei.
+
+217
+00:14:10,927 --> 00:14:12,512
+Então?
+
+218
+00:14:12,721 --> 00:14:13,722
+Anda daí.
+
+219
+00:14:15,849 --> 00:14:19,227
+O filme ficou para maiores de 18.
+
+220
+00:14:23,482 --> 00:14:24,608
+Olá.
+
+221
+00:14:25,150 --> 00:14:26,276
+Vais a algum lado?
+
+222
+00:14:26,485 --> 00:14:31,531
+Não, mas tu vais.
+Por isso, comprei-te um presente.
+
+223
+00:14:32,074 --> 00:14:35,035
+- Sheldon, não era necessário.
+- Era, pois.
+
+224
+00:14:35,202 --> 00:14:40,665
+O Leonard mostrou-me que nem sempre sou
+um namorado dedicado e compreensivo.
+
+225
+00:14:40,874 --> 00:14:43,043
+Toma uma mala de qualidade.
+
+226
+00:14:44,503 --> 00:14:45,921
+Obrigada.
+
+227
+00:14:46,129 --> 00:14:49,174
+O vendedor disse que resiste
+à queda de um avião.
+
+228
+00:14:52,135 --> 00:14:54,471
+Talvez seja melhor ires no interior.
+
+229
+00:14:58,475 --> 00:15:00,894
+Significa que não te importas que vá?
+
+230
+00:15:01,061 --> 00:15:02,646
+Não estou ansioso.
+
+231
+00:15:02,854 --> 00:15:06,858
+Mas é uma oportunidade maravilhosa
+e tens de aceitar.
+
+232
+00:15:07,025 --> 00:15:12,572
+Além do mais, Princeton fica em New Jersey.
+Não vais querer ficar.
+
+233
+00:15:19,871 --> 00:15:22,290
+Eu sei que não fazes anos, mas queres...
+
+234
+00:15:22,457 --> 00:15:24,126
+- Quero.
+- Está bem.
+
+235
+00:15:25,836 --> 00:15:27,712
+E só para deixar claro,
+
+236
+00:15:28,338 --> 00:15:32,050
+não quero fazer sexo contigo
+para convencer-te a ficar.
+
+237
+00:15:32,217 --> 00:15:33,385
+Não pensei isso.
+
+238
+00:15:33,552 --> 00:15:38,390
+Estou só a avisar-te que, quando
+estiveres a 3000 milhas de distância,
+
+239
+00:15:38,557 --> 00:15:40,517
+e quiseres um pouco disto,
+
+240
+00:15:43,019 --> 00:15:45,272
+não posso mandar-te via Skype.
+
+241
+00:15:47,107 --> 00:15:49,693
+É um risco que estou disposta a correr.
+
+242
+00:15:49,901 --> 00:15:51,153
+Muito bem.
+
+243
+00:15:51,486 --> 00:15:56,450
+Vamos para o quarto, despirmo-nos,
+dobrarmos bem a roupa,
+
+244
+00:15:58,785 --> 00:16:01,913
+e fazer amor apaixonadamente.
+
+245
+00:16:04,875 --> 00:16:09,337
+- E se não dobrássemos a roupa?
+- Eu... Ou...
+
+246
+00:16:09,713 --> 00:16:11,798
+...e se dobrássemos?
+
+247
+00:16:14,759 --> 00:16:17,345
+- Tomem a vossa chave.
+- Obrigado.
+
+248
+00:16:17,554 --> 00:16:19,222
+Quando estiver pronta, convido-vos.
+
+249
+00:16:19,431 --> 00:16:21,057
+Íamos adorar.
+
+250
+00:16:21,266 --> 00:16:25,896
+Nem sei como agradecer-vos. Eu estava
+num mau momento da minha vida.
+
+251
+00:16:26,062 --> 00:16:28,815
+Amy, és uma mulher marota.
+
+252
+00:16:34,237 --> 00:16:37,365
+Bom, como eu estava a dizer,
+
+253
+00:16:37,574 --> 00:16:41,578
+estava num mau momento e se não fosse
+por amigos como vocês.
+
+254
+00:16:41,745 --> 00:16:44,873
+Aquela forma de estimulação
+é altamente eficaz.
+
+255
+00:16:49,669 --> 00:16:51,713
+Não posso competir com aquilo.
+
+256
+00:16:54,007 --> 00:16:55,592
+Vamos deixá-los sozinhos?
+
+257
+00:16:55,759 --> 00:16:58,720
+Eu quero, mas acho que não consigo.
+
+258
+00:17:00,555 --> 00:17:02,140
+Pronto, já chega.
+
+259
+00:17:10,104 --> 00:17:12,899
+O carro está à espera.
+Vens comigo ao rés do chão?
+
+260
+00:17:13,107 --> 00:17:15,318
+Claro. Deixa-me ajudar-te.
+
+261
+00:17:15,485 --> 00:17:19,572
+Fiz uma pequena pesquisa
+sobre New Jersey e fiquei feliz por saber
+
+262
+00:17:19,739 --> 00:17:23,493
+que o principal produto agrícola deles
+é a relva.
+
+263
+00:17:24,661 --> 00:17:26,079
+- A sério?
+- Sim.
+
+264
+00:17:26,287 --> 00:17:30,083
+Talvez tenha sido mais duro
+com eles do que mereciam.
+
+265
+00:17:32,043 --> 00:17:36,339
+Achas que talvez possas gostar
+de viver sozinho por um tempo?
+
+266
+00:17:37,006 --> 00:17:43,429
+Não sei. Nunca vivi sozinho.
+E se me tornar estranho e excêntrico?
+
+267
+00:17:48,476 --> 00:17:50,478
+Eu amo-te de qualquer forma.
+
+268
+00:17:52,188 --> 00:17:55,984
+O Howard Hughes guardava a urina
+em garrafas de leite.
+
+269
+00:17:57,151 --> 00:17:59,737
+Pensamos nisso quando lá chegarmos.
+
+270
+00:18:01,573 --> 00:18:03,741
+Envias-me uma SMS
+quando chegares ao aeroporto?
+
+271
+00:18:03,908 --> 00:18:05,660
+- Sim.
+- Na porta de embarque?
+
+272
+00:18:05,910 --> 00:18:09,414
+E se vires os atores
+de <i>A Guerra dos Tronos </i>na primeira classe?
+
+273
+00:18:10,540 --> 00:18:12,375
+Não sei quem são, mas claro.
+
+274
+00:18:13,042 --> 00:18:15,169
+- Não te esqueças de ligar via Skype.
+- Combinado.
+
+275
+00:18:15,336 --> 00:18:16,588
+- Todas as manhãs.
+- Sim.
+
+276
+00:18:16,754 --> 00:18:18,631
+Às 9 da manhã é meio-dia para ti.
+
+277
+00:18:18,798 --> 00:18:23,052
+Por isso, vamos evitar o bom dia,
+boa tarde e dizer apenas "olá".
+
+278
+00:18:23,928 --> 00:18:25,179
+Bem pensado.
+
+279
+00:18:25,346 --> 00:18:30,184
+Não te esqueças que tenho orgulho em ti
+e que te apoio em tudo o que faças.
+
+280
+00:18:30,351 --> 00:18:31,811
+Obrigada. Significa imenso.
+
+281
+00:18:31,978 --> 00:18:35,773
+Mais uma coisa. Se trabalhares
+com um cientista
+
+282
+00:18:35,940 --> 00:18:39,986
+tão inteligente e alto como eu,
+e com o cabelo como o Thor,
+
+283
+00:18:40,153 --> 00:18:44,741
+quero que te afastes da situação
+e me ligues imediatamente.
+
